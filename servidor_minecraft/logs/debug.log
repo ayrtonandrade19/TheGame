@@ -3865,3 +3865,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Mar2025 02:19:47.568] [Server thread/DEBUG] [mixin/]: Mixing BlockStateCacheMixin from ferritecore.blockstatecache.mixin.json into net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase$Cache
 [22Mar2025 02:24:47.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Mar2025 02:24:47.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 02:29:47.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 02:29:47.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 02:34:47.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 02:34:47.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 02:39:47.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 02:39:47.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

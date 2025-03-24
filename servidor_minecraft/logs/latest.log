@@ -312,3 +312,109 @@
 [24Mar2025 20:33:47.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> GAAAA
 [24Mar2025 20:33:54.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> oe
 [24Mar2025 20:34:13.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> pepito ya esta talando
+[24Mar2025 20:34:53.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Alex's Mobs]
+[24Mar2025 20:34:55.457] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,framework:play,uteamcore:network_forge,curios:main,usefulbackpacks:slot_mod,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,tombstone:tombstone_channel,mowziesmobs:net,uteamcore:network,geckolib:main,waystones:network] rejected vanilla connections
+[24Mar2025 20:34:55.457] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/192.168.194.29:63151] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[24Mar2025 20:35:12.534] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,framework:play,uteamcore:network_forge,curios:main,usefulbackpacks:slot_mod,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,tombstone:tombstone_channel,mowziesmobs:net,uteamcore:network,geckolib:main,waystones:network] rejected vanilla connections
+[24Mar2025 20:35:12.534] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/192.168.194.29:63166] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[24Mar2025 20:35:34.050] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,framework:play,uteamcore:network_forge,curios:main,usefulbackpacks:slot_mod,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,tombstone:tombstone_channel,mowziesmobs:net,uteamcore:network,geckolib:main,waystones:network] rejected vanilla connections
+[24Mar2025 20:35:34.051] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/192.168.194.29:63204] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[24Mar2025 20:35:35.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set the time to 1000]
+[24Mar2025 20:35:55.208] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,framework:play,uteamcore:network_forge,curios:main,usefulbackpacks:slot_mod,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,tombstone:tombstone_channel,mowziesmobs:net,uteamcore:network,geckolib:main,waystones:network] rejected vanilla connections
+[24Mar2025 20:35:55.208] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/192.168.194.29:63217] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[24Mar2025 20:36:19.570] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,framework:play,uteamcore:network_forge,curios:main,usefulbackpacks:slot_mod,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,tombstone:tombstone_channel,mowziesmobs:net,uteamcore:network,geckolib:main,waystones:network] rejected vanilla connections
+[24Mar2025 20:36:19.570] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/192.168.194.29:63218] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[24Mar2025 20:37:27.616] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,framework:play,uteamcore:network_forge,curios:main,usefulbackpacks:slot_mod,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,tombstone:tombstone_channel,mowziesmobs:net,uteamcore:network,geckolib:main,waystones:network] rejected vanilla connections
+[24Mar2025 20:37:27.616] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/192.168.194.29:63367] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[24Mar2025 20:38:04.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> a quien le falta su mochila
+[24Mar2025 20:38:25.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> mochila?
+[24Mar2025 20:38:29.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[24Mar2025 20:38:31.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> si
+[24Mar2025 20:38:51.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Midgard2552[/192.168.194.29:63480] logged in with entity id 3277 at (-44.5, 62.0, 84.5)
+[24Mar2025 20:38:51.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 joined the game
+[24Mar2025 20:38:51.716] [Server thread/INFO] [Jade/]: Syncing config to Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721)
+[24Mar2025 20:38:51.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has reached the goal [Easter]
+[24Mar2025 20:38:52.717] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Midgard2552 (18)
+[24Mar2025 20:38:52.717] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Midgard2552
+[24Mar2025 20:38:54.293] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7b2f48e0-3526-383b-968c-7681c44da721
+[24Mar2025 20:38:55.322] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7b2f48e0-3526-383b-968c-7681c44da721
+[24Mar2025 20:38:55.323] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721) successfully connected to voice chat
+[24Mar2025 20:40:01.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pokeiro: No skin changes]
+[24Mar2025 20:40:03.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Stone Age]
+[24Mar2025 20:40:22.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> pongan /skin y pongan un nombre y se les cambia
+[24Mar2025 20:40:33.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> ya se pueden ir
+[24Mar2025 20:40:38.521] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[24Mar2025 20:40:38.571] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[24Mar2025 20:40:49.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> pon /skin sapo
+[24Mar2025 20:40:59.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> xd
+[24Mar2025 20:41:12.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pokeiro: Skin changed]
+[24Mar2025 20:41:31.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Monster Hunter]
+[24Mar2025 20:41:31.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [A Strange Grave Dust]
+[24Mar2025 20:41:38.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pokeiro: Skin changed]
+[24Mar2025 20:42:14.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Getting an Upgrade]
+[24Mar2025 20:42:50.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pokeiro: Skin changed]
+[24Mar2025 20:43:36.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> aaa
+[24Mar2025 20:43:39.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[24Mar2025 20:43:42.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has made the advancement [Alex's Mobs]
+[24Mar2025 20:44:15.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> xd casi muero
+[24Mar2025 20:44:39.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> los escucho bajo
+[24Mar2025 20:44:47.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> como les subo el volumenm
+[24Mar2025 20:44:48.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> no nos escuchas we
+[24Mar2025 20:44:56.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> presiona N rey
+[24Mar2025 20:45:00.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> dle a lA v
+[24Mar2025 20:45:05.851] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[24Mar2025 20:45:05.851] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[24Mar2025 20:45:05.862] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[24Mar2025 20:45:05.862] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[24Mar2025 20:45:05.863] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[24Mar2025 20:45:05.863] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[24Mar2025 20:45:05.863] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[24Mar2025 20:45:05.865] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[24Mar2025 20:45:05.866] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[24Mar2025 20:45:05.886] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[24Mar2025 20:45:05.895] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[24Mar2025 20:45:05.896] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[24Mar2025 20:45:05.896] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[24Mar2025 20:45:05.896] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[24Mar2025 20:45:05.896] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[24Mar2025 20:45:06.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> no ay nada en esa cueva
+[24Mar2025 20:45:15.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set the time to 1000]
+[24Mar2025 20:45:28.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyy7w77> dondeeee estassss lancew
+[24Mar2025 20:45:32.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> aldea
+[24Mar2025 20:45:40.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[24Mar2025 20:45:45.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> donde
+[24Mar2025 20:45:50.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported gabyy7w77 to Lancelot]
+[24Mar2025 20:46:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Easter Egg Searcher]
+[24Mar2025 20:46:12.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> este pepito se llevo el unico arbol de aca
+[24Mar2025 20:47:33.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has reached the goal [Flowers of the Savanna]
+[24Mar2025 20:47:37.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to gabyy7w77]
+[24Mar2025 20:47:40.332] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[24Mar2025 20:47:40.333] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[24Mar2025 20:47:40.333] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[24Mar2025 20:47:46.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Alex's Mobs]
+[24Mar2025 20:48:06.703] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[24Mar2025 20:48:06.703] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[24Mar2025 20:48:34.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> voy a esclavizar como en la decada de los 70
+[24Mar2025 20:48:37.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Stone Age]
+[24Mar2025 20:48:52.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has made the advancement [Stone Age]
+[24Mar2025 20:49:15.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has made the advancement [Getting an Upgrade]
+[24Mar2025 20:49:27.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported pepito to gabyy7w77]
+[24Mar2025 20:49:31.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Easter Egg Searcher]
+[24Mar2025 20:49:37.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyy7w77> lanceeeeee donde estas
+[24Mar2025 20:49:44.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> oe
+[24Mar2025 20:49:49.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> dale a la G
+[24Mar2025 20:50:17.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has reached the goal [Flowers of the Savanna]
+[24Mar2025 20:50:36.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> shit y click derecho
+[24Mar2025 20:50:46.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Stone Age]
+[24Mar2025 20:50:51.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Stone Age]
+[24Mar2025 20:51:08.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Getting an Upgrade]
+[24Mar2025 20:51:41.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported gabyy7w77 to Aleksito27]
+[24Mar2025 20:51:54.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported pepito to gabyy7w77]
+[24Mar2025 20:53:02.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Getting an Upgrade]
+[24Mar2025 20:53:36.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepito lost connection: Disconnected
+[24Mar2025 20:53:36.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito left the game
+[24Mar2025 20:53:36.284] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pepito
+[24Mar2025 20:53:42.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lancelot moved wrongly!
+[24Mar2025 20:54:25.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[24Mar2025 20:54:35.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Amateur Archaeologist]
+[24Mar2025 20:54:43.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]

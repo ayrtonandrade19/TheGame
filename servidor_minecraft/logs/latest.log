@@ -1,749 +1,199 @@
-[24Mar2025 20:24:48.663] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[24Mar2025 20:24:48.666] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[24Mar2025 20:24:49.631] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[24Mar2025 20:24:49.688] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/TheGame/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[24Mar2025 20:24:49.974] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TheGame/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
-[24Mar2025 20:24:49.977] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TheGame/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[24Mar2025 20:24:49.978] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TheGame/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[24Mar2025 20:24:49.979] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TheGame/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[24Mar2025 20:24:50.190] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[24Mar2025 20:24:50.192] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[24Mar2025 20:24:52.534] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[24Mar2025 20:24:52.657] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[24Mar2025 20:24:52.797] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
-[24Mar2025 20:24:52.797] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[24Mar2025 20:24:52.813] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[24Mar2025 20:24:52.939] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 100 options available, 0 override(s) found
-[24Mar2025 20:24:52.974] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[24Mar2025 20:24:53.062] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
-[24Mar2025 20:24:53.193] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
-[24Mar2025 20:24:54.544] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[24Mar2025 20:24:54.544] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[24Mar2025 20:24:54.807] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[24Mar2025 20:24:55.367] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.153 s after launch)
-[24Mar2025 20:24:55.536] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[24Mar2025 20:24:55.537] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[24Mar2025 20:24:57.282] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1911 milliseconds
-[24Mar2025 20:25:00.288] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[24Mar2025 20:25:00.289] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[24Mar2025 20:25:00.291] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[24Mar2025 20:25:00.295] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[24Mar2025 20:25:00.296] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[24Mar2025 20:25:00.299] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[24Mar2025 20:25:00.300] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[24Mar2025 20:25:00.302] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[24Mar2025 20:25:00.412] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[24Mar2025 20:25:00.412] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[24Mar2025 20:25:00.413] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[24Mar2025 20:25:00.414] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[24Mar2025 20:25:00.414] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[24Mar2025 20:25:00.415] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[24Mar2025 20:25:00.416] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[24Mar2025 20:25:00.433] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[24Mar2025 20:25:00.456] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
-[24Mar2025 20:25:00.457] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
-[24Mar2025 20:25:00.480] [modloading-worker-0/INFO] [chloride/Main]: Chloride is not intended to be on servers, loaded in inner mode
-[24Mar2025 20:25:00.502] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
-[24Mar2025 20:25:00.504] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
-[24Mar2025 20:25:00.505] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
-[24Mar2025 20:25:00.505] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (0 ms)
-[24Mar2025 20:25:00.556] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[24Mar2025 20:25:00.811] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[24Mar2025 20:25:00.887] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[24Mar2025 20:25:04.027] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
-[24Mar2025 20:25:04.065] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[24Mar2025 20:25:04.069] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[24Mar2025 20:25:04.141] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[24Mar2025 20:25:04.149] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[24Mar2025 20:25:04.150] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[24Mar2025 20:25:04.150] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[24Mar2025 20:25:04.441] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[24Mar2025 20:25:04.442] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[24Mar2025 20:25:04.466] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[24Mar2025 20:25:04.467] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[24Mar2025 20:25:04.707] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[24Mar2025 20:25:04.707] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[24Mar2025 20:25:04.785] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[24Mar2025 20:25:04.793] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[24Mar2025 20:25:04.793] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[24Mar2025 20:25:04.805] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[24Mar2025 20:25:04.809] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[24Mar2025 20:25:04.811] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
-[24Mar2025 20:25:04.811] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[24Mar2025 20:25:04.813] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[24Mar2025 20:25:04.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.346 Target: null
-[24Mar2025 20:25:04.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24Mar2025 20:25:05.173] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.0 Target: 47.4.0
-[24Mar2025 20:25:05.173] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[24Mar2025 20:25:05.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.124 Target: null
-[24Mar2025 20:25:05.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[24Mar2025 20:25:05.414] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24Mar2025 20:25:05.502] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[24Mar2025 20:25:05.522] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/TheGame/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/assets/.mcassetsroot' uses unexpected schema
-[24Mar2025 20:25:05.522] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/TheGame/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/data/.mcassetsroot' uses unexpected schema
-[24Mar2025 20:25:06.120] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.28
-[24Mar2025 20:25:06.120] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[24Mar2025 20:25:06.267] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[24Mar2025 20:25:06.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
-[24Mar2025 20:25:06.414] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.3 Target: null
-[24Mar2025 20:25:06.415] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[24Mar2025 20:25:06.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
-[24Mar2025 20:25:06.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[24Mar2025 20:25:06.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
-[24Mar2025 20:25:06.573] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[24Mar2025 20:25:07.182] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[24Mar2025 20:25:07.182] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[24Mar2025 20:25:07.393] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[24Mar2025 20:25:07.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[24Mar2025 20:25:07.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[24Mar2025 20:25:07.431] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.2 Target: null
-[24Mar2025 20:25:07.431] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
-[24Mar2025 20:25:07.469] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.2.jar
-[24Mar2025 20:25:07.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.4+mc1.20.1-build.131 Target: null
-[24Mar2025 20:25:07.605] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[24Mar2025 20:25:07.823] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[24Mar2025 20:25:08.389] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[24Mar2025 20:25:08.537] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2723 advancements
-[24Mar2025 20:25:08.557] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[24Mar2025 20:25:08.561] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[24Mar2025 20:25:08.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[24Mar2025 20:25:08.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24Mar2025 20:25:08.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24Mar2025 20:25:08.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24Mar2025 20:25:08.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24Mar2025 20:25:08.818] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[24Mar2025 20:25:08.892] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24Mar2025 20:25:08.892] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24Mar2025 20:25:08.892] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24Mar2025 20:25:08.893] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24Mar2025 20:25:08.910] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/jei-server.toml is not correct. Correcting
-[24Mar2025 20:25:08.912] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.912] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForOp was corrected from null to its default, true. 
-[24Mar2025 20:25:08.912] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForCreative was corrected from null to its default, true. 
-[24Mar2025 20:25:08.913] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForGive was corrected from null to its default, false. 
-[24Mar2025 20:25:08.914] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[24Mar2025 20:25:08.914] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.915] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[24Mar2025 20:25:08.915] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[24Mar2025 20:25:08.915] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[24Mar2025 20:25:08.916] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
-[24Mar2025 20:25:08.916] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
-[24Mar2025 20:25:08.916] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[24Mar2025 20:25:08.917] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
-[24Mar2025 20:25:08.919] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/curios-server.toml is not correct. Correcting
-[24Mar2025 20:25:08.920] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key keepCurios was corrected from null to its default, DEFAULT. 
-[24Mar2025 20:25:08.920] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key menu was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.921] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key menu.enableLegacyMenu was corrected from null to its default, false. 
-[24Mar2025 20:25:08.921] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key menu.experimental was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.921] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key menu.experimental.minimumColumns was corrected from null to its default, 1. 
-[24Mar2025 20:25:08.922] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key menu.experimental.maxSlotsPerPage was corrected from null to its default, 48. 
-[24Mar2025 20:25:08.923] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/easy_villagers-server.toml is not correct. Correcting
-[24Mar2025 20:25:08.924] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key breeder was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.924] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key breeder.breeding_time was corrected from null to its default, 1200. 
-[24Mar2025 20:25:08.925] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key converter was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.925] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key converter.converting_time was corrected from null to its default, 6000. 
-[24Mar2025 20:25:08.926] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key farmer was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.927] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key farmer.farm_speed was corrected from null to its default, 10. 
-[24Mar2025 20:25:08.928] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key iron_farm was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.928] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key iron_farm.spawn_time was corrected from null to its default, 4800. 
-[24Mar2025 20:25:08.928] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trader was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.929] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trader.min_restock_time was corrected from null to its default, 1200. 
-[24Mar2025 20:25:08.929] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trader.max_restock_time was corrected from null to its default, 3600. 
-[24Mar2025 20:25:08.930] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key auto_trader was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.930] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key auto_trader.min_restock_time was corrected from null to its default, 1200. 
-[24Mar2025 20:25:08.930] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key auto_trader.max_restock_time was corrected from null to its default, 3600. 
-[24Mar2025 20:25:08.930] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key auto_trader.trade_cooldown was corrected from null to its default, 20. 
-[24Mar2025 20:25:08.931] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key villager was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.931] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key villager.inventory_sounds was corrected from null to its default, true. 
-[24Mar2025 20:25:08.932] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key villager.sound_amount was corrected from null to its default, 20. 
-[24Mar2025 20:25:08.932] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key villager.trade_cycling was corrected from null to its default, true. 
-[24Mar2025 20:25:08.932] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key villager.universal_reputation was corrected from null to its default, true. 
-[24Mar2025 20:25:08.933] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key incubator was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.933] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key incubator.speed was corrected from null to its default, 2. 
-[24Mar2025 20:25:08.935] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/advancednetherite-server.toml is not correct. Correcting
-[24Mar2025 20:25:08.935] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.936] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.936] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties.breaking_speed_multipliers was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.936] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties.breaking_speed_multipliers.ironBreakingSpeedMultiplier was corrected from null to its default, 12. 
-[24Mar2025 20:25:08.936] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties.breaking_speed_multipliers.goldBreakingSpeedMultiplier was corrected from null to its default, 20. 
-[24Mar2025 20:25:08.937] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties.breaking_speed_multipliers.emeraldBreakingSpeedMultiplier was corrected from null to its default, 29. 
-[24Mar2025 20:25:08.937] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tool_properties.breaking_speed_multipliers.diamondBreakingSpeedMultiplier was corrected from null to its default, 39. 
-[24Mar2025 20:25:08.937] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.938] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.crop_drop_chances was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.938] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.crop_drop_chances.additionalWheatDropChance was corrected from null to its default, 0.3. 
-[24Mar2025 20:25:08.938] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.crop_drop_chances.additionalCarrotsDropChance was corrected from null to its default, 0.3. 
-[24Mar2025 20:25:08.938] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.crop_drop_chances.additionalPotatoesDropChance was corrected from null to its default, 0.3. 
-[24Mar2025 20:25:08.939] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.crop_drop_chances.additionalBeetrootsDropChance was corrected from null to its default, 0.2. 
-[24Mar2025 20:25:08.939] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.mob_drop_chances was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.939] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.mob_drop_chances.additionalPhantomDropChance was corrected from null to its default, 0.5. 
-[24Mar2025 20:25:08.940] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.mob_drop_chances.additionalZombifiedPiglinDropChance was corrected from null to its default, 0.5. 
-[24Mar2025 20:25:08.940] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.mob_drop_chances.additionalPiglinDropChance was corrected from null to its default, 0.15. 
-[24Mar2025 20:25:08.940] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.mob_drop_chances.additionalEndermanDropChance was corrected from null to its default, 0.3. 
-[24Mar2025 20:25:08.941] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances was corrected from null to its default, SimpleCommentedConfig:{}. 
-[24Mar2025 20:25:08.941] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances.additionalRawIronDropChance was corrected from null to its default, 0.2. 
-[24Mar2025 20:25:08.941] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances.additionalRawGoldChance was corrected from null to its default, 0.3. 
-[24Mar2025 20:25:08.941] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances.additionalEmeraldDropChance was corrected from null to its default, 0.4. 
-[24Mar2025 20:25:08.942] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances.additionalDiamondDropChance was corrected from null to its default, 0.25. 
-[24Mar2025 20:25:08.942] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.additional_drop_properties.ore_drop_chances.additionalGoldNuggetDropChance was corrected from null to its default, 0.6. 
-[24Mar2025 20:25:08.944] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/securitycraft-server.toml is not correct. Correcting
-[24Mar2025 20:25:08.944] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key codebreaker_chance was corrected from null to its default, 0.33. 
-[24Mar2025 20:25:08.945] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key allowAdminTool was corrected from null to its default, true. 
-[24Mar2025 20:25:08.946] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key shouldSpawnFire was corrected from null to its default, true. 
-[24Mar2025 20:25:08.947] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ableToBreakMines was corrected from null to its default, true. 
-[24Mar2025 20:25:08.949] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key smallerMineExplosion was corrected from null to its default, false. 
-[24Mar2025 20:25:08.950] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mineExplodesWhenInCreative was corrected from null to its default, true. 
-[24Mar2025 20:25:08.951] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mineExplosionsBreakBlocks was corrected from null to its default, true. 
-[24Mar2025 20:25:08.953] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key laserBlockRange was corrected from null to its default, 5. 
-[24Mar2025 20:25:08.954] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryScannerRange was corrected from null to its default, 2. 
-[24Mar2025 20:25:08.956] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key maxAlarmRange was corrected from null to its default, 100. 
-[24Mar2025 20:25:08.956] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key allowBlockClaim was corrected from null to its default, false. 
-[24Mar2025 20:25:08.957] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reinforced_block_tint was corrected from null to its default, true. 
-[24Mar2025 20:25:08.958] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key force_reinforced_block_tint was corrected from null to its default, false. 
-[24Mar2025 20:25:08.959] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key retinalScannerFace was corrected from null to its default, true. 
-[24Mar2025 20:25:08.960] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enable_team_ownership was corrected from null to its default, false. 
-[24Mar2025 20:25:08.961] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key team_ownership_precedence was corrected from null to its default, [FTB_TEAMS, VANILLA]. 
-[24Mar2025 20:25:08.962] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disable_thanks_message was corrected from null to its default, false. 
-[24Mar2025 20:25:08.963] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trick_scanners_with_player_heads was corrected from null to its default, false. 
-[24Mar2025 20:25:08.964] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key prevent_reinforced_floor_glitching was corrected from null to its default, false. 
-[24Mar2025 20:25:08.965] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key taser_damage was corrected from null to its default, 1.0. 
-[24Mar2025 20:25:08.966] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key powered_taser_damage was corrected from null to its default, 2.0. 
-[24Mar2025 20:25:08.967] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key taser_effects was corrected from null to its default, [minecraft:weakness|200|2, minecraft:nausea|200|2, minecraft:slowness|200|2]. 
-[24Mar2025 20:25:08.968] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key powered_taser_effects was corrected from null to its default, [minecraft:weakness|400|5, minecraft:nausea|400|5, minecraft:slowness|400|5]. 
-[24Mar2025 20:25:08.969] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key laser_damage was corrected from null to its default, 10.0. 
-[24Mar2025 20:25:08.970] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key incorrectPasscodeDamage was corrected from null to its default, 4. 
-[24Mar2025 20:25:08.971] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sentry_bullet_damage was corrected from null to its default, 2. 
-[24Mar2025 20:25:08.973] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reinforced_suffocation_damage was corrected from null to its default, 5. 
-[24Mar2025 20:25:08.974] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key allow_camera_night_vision was corrected from null to its default, true. 
-[24Mar2025 20:25:08.975] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key passcode_check_cooldown was corrected from null to its default, 250. 
-[24Mar2025 20:25:08.976] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key passcode_spam_log_warning_enabled was corrected from null to its default, true. 
-[24Mar2025 20:25:08.977] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key passcode_spam_log_warning was corrected from null to its default, Player "%1$s" tried to enter a passcode into "%2$s" at position [%3$s] too quickly!. 
-[24Mar2025 20:25:08.978] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key in_world_un_reinforcing was corrected from null to its default, true. 
-[24Mar2025 20:25:08.981] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sentry_attackable_entities_allowlist was corrected from null to its default, []. 
-[24Mar2025 20:25:08.983] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sentry_attackable_entities_denylist was corrected from null to its default, []. 
-[24Mar2025 20:25:09.086] [Server thread/INFO] [Framework/]: Loading server configs...
-[24Mar2025 20:25:09.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24Mar2025 20:25:09.422] [Server thread/INFO] [voicechat/]: [voicechat] Successfully migrated config voicechat-server.toml
-[24Mar2025 20:25:12.706] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
-[24Mar2025 20:25:17.317] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:0 potentially creating overlapping structures detected. Structure sets: [minecraft:mineshafts, minecraft:strongholds, minecraft:buried_treasures]
-[24Mar2025 20:25:17.317] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:783 potentially creating overlapping structures detected. Structure sets: [nova_structures:taverns, nova_structures:badlands_miner_outpost]
-[24Mar2025 20:25:17.318] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387312 potentially creating overlapping structures detected. Structure sets: [minecraft:villages, nova_structures:villages_jungle, nova_structures:villages_swamp]
-[24Mar2025 20:25:17.318] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387313 potentially creating overlapping structures detected. Structure sets: [minecraft:ocean_monuments, minecraft:end_cities]
-[24Mar2025 20:25:17.318] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:4533232 potentially creating overlapping structures detected. Structure sets: [nova_structures:illager_camp, nova_structures:nether_camps]
-[24Mar2025 20:25:17.318] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:239021 potentially creating overlapping structures detected. Structure sets: [nova_structures:desert_ruins, nova_structures:jungle_ruins]
-[24Mar2025 20:25:17.409] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[24Mar2025 20:25:17.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24Mar2025 20:25:17.416] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7 ms
-[24Mar2025 20:25:17.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.509s)! For help, type "help"
-[24Mar2025 20:25:17.458] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[24Mar2025 20:25:17.491] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[24Mar2025 20:25:17.504] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[24Mar2025 20:25:17.506] [Server thread/WARN] [ModernFix/]: Dedicated server took 31.293 seconds to load
-[24Mar2025 20:25:21.263] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at 687 ~ -1440 after 60 tries
-[24Mar2025 20:26:41.215] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[24Mar2025 20:26:41.249] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepito[/192.168.194.247:51582] logged in with entity id 433 at (-47.5, 64.0, 90.5)
-[24Mar2025 20:26:41.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito joined the game
-[24Mar2025 20:26:41.377] [Server thread/INFO] [Jade/]: Syncing config to pepito (3b6eece8-baa9-3e51-8999-07090befd51e)
-[24Mar2025 20:26:41.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has reached the goal [Easter]
-[24Mar2025 20:26:44.580] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepito (18)
-[24Mar2025 20:26:44.582] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepito
-[24Mar2025 20:26:48.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3b6eece8-baa9-3e51-8999-07090befd51e
-[24Mar2025 20:26:49.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3b6eece8-baa9-3e51-8999-07090befd51e
-[24Mar2025 20:26:49.279] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pepito (3b6eece8-baa9-3e51-8999-07090befd51e) successfully connected to voice chat
-[24Mar2025 20:27:17.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lancelot[/192.168.194.132:54343] logged in with entity id 942 at (-57.5, 64.0, 85.5)
-[24Mar2025 20:27:17.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot joined the game
-[24Mar2025 20:27:17.898] [Server thread/INFO] [Jade/]: Syncing config to Lancelot (cba656f6-4d17-3fe3-8957-0cbbca6cab2d)
-[24Mar2025 20:27:17.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has reached the goal [Easter]
-[24Mar2025 20:27:19.549] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lancelot (18)
-[24Mar2025 20:27:19.550] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lancelot
-[24Mar2025 20:27:22.155] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cba656f6-4d17-3fe3-8957-0cbbca6cab2d
-[24Mar2025 20:27:23.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cba656f6-4d17-3fe3-8957-0cbbca6cab2d
-[24Mar2025 20:27:23.161] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lancelot (cba656f6-4d17-3fe3-8957-0cbbca6cab2d) successfully connected to voice chat
-[24Mar2025 20:28:21.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aleksito27[/192.168.194.10:54980] logged in with entity id 1289 at (-38.5, 43.0, 81.5)
-[24Mar2025 20:28:21.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 joined the game
-[24Mar2025 20:28:21.902] [Server thread/INFO] [Jade/]: Syncing config to Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb)
-[24Mar2025 20:28:21.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Easter]
-[24Mar2025 20:28:23.019] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Aleksito27 (18)
-[24Mar2025 20:28:23.020] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Aleksito27
-[24Mar2025 20:28:25.795] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
-[24Mar2025 20:28:26.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
-[24Mar2025 20:28:26.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb) successfully connected to voice chat
-[24Mar2025 20:28:34.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
-[24Mar2025 20:28:55.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> dale a la XD
-[24Mar2025 20:28:57.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> X
-[24Mar2025 20:29:08.998] [ForkJoinPool.commonPool-worker-3/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[24Mar2025 20:29:09.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gabyy7w77[/192.168.194.30:52348] logged in with entity id 1448 at (-50.5, 64.0, 84.5)
-[24Mar2025 20:29:09.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 joined the game
-[24Mar2025 20:29:09.084] [Server thread/INFO] [Jade/]: Syncing config to gabyy7w77 (34b0f9f6-eb3f-3df0-a2ed-1160caa53a9c)
-[24Mar2025 20:29:09.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has reached the goal [Easter]
-[24Mar2025 20:29:10.271] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of gabyy7w77 (18)
-[24Mar2025 20:29:10.271] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to gabyy7w77
-[24Mar2025 20:29:11.948] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 34b0f9f6-eb3f-3df0-a2ed-1160caa53a9c
-[24Mar2025 20:29:12.950] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 34b0f9f6-eb3f-3df0-a2ed-1160caa53a9c
-[24Mar2025 20:29:12.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player gabyy7w77 (34b0f9f6-eb3f-3df0-a2ed-1160caa53a9c) successfully connected to voice chat
-[24Mar2025 20:29:17.304] [ForkJoinPool.commonPool-worker-3/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[24Mar2025 20:29:17.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokeiro[/192.168.194.181:58703] logged in with entity id 1480 at (-54.5, 64.0, 71.5)
-[24Mar2025 20:29:17.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro joined the game
-[24Mar2025 20:29:17.373] [Server thread/INFO] [Jade/]: Syncing config to Pokeiro (7a3a2971-fdd3-3c17-986d-f87059f73c45)
-[24Mar2025 20:29:17.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has reached the goal [Easter]
-[24Mar2025 20:29:18.818] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pokeiro (18)
-[24Mar2025 20:29:18.819] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pokeiro
-[24Mar2025 20:29:21.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7a3a2971-fdd3-3c17-986d-f87059f73c45
-[24Mar2025 20:29:22.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7a3a2971-fdd3-3c17-986d-f87059f73c45
-[24Mar2025 20:29:22.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pokeiro (7a3a2971-fdd3-3c17-986d-f87059f73c45) successfully connected to voice chat
-[24Mar2025 20:29:27.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> ala el negrito ojos claros
-[24Mar2025 20:30:28.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> configuren el voice chat
-[24Mar2025 20:30:33.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> ya enpiezo
-[24Mar2025 20:31:06.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Alex's Mobs]
-[24Mar2025 20:31:58.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> como se vota las cosas
-[24Mar2025 20:32:04.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> con Q
-[24Mar2025 20:32:14.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> a
-[24Mar2025 20:32:18.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> grasias
-[24Mar2025 20:32:25.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> denle a la V
-[24Mar2025 20:32:28.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> pa configurar
-[24Mar2025 20:32:48.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> que mierda esta en el cielo??
-[24Mar2025 20:33:00.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> tu viejo pe
-[24Mar2025 20:33:09.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> todavia que te ayudo y dices groserias csmr
-[24Mar2025 20:33:18.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> xd
-[24Mar2025 20:33:20.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> desmuteate pepito
-[24Mar2025 20:33:28.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> con N
-[24Mar2025 20:33:29.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> si grasias ya te yapeo una llanta
-[24Mar2025 20:33:36.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> llanta? que es esa nota
-[24Mar2025 20:33:45.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> mejor abre la boquita que te doy mi mayonesa
-[24Mar2025 20:33:47.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> GAAAA
-[24Mar2025 20:33:54.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> oe
-[24Mar2025 20:34:13.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> pepito ya esta talando
-[24Mar2025 20:34:53.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Alex's Mobs]
-[24Mar2025 20:34:55.457] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,framework:play,uteamcore:network_forge,curios:main,usefulbackpacks:slot_mod,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,tombstone:tombstone_channel,mowziesmobs:net,uteamcore:network,geckolib:main,waystones:network] rejected vanilla connections
-[24Mar2025 20:34:55.457] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/192.168.194.29:63151] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[24Mar2025 20:35:12.534] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,framework:play,uteamcore:network_forge,curios:main,usefulbackpacks:slot_mod,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,tombstone:tombstone_channel,mowziesmobs:net,uteamcore:network,geckolib:main,waystones:network] rejected vanilla connections
-[24Mar2025 20:35:12.534] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/192.168.194.29:63166] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[24Mar2025 20:35:34.050] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,framework:play,uteamcore:network_forge,curios:main,usefulbackpacks:slot_mod,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,tombstone:tombstone_channel,mowziesmobs:net,uteamcore:network,geckolib:main,waystones:network] rejected vanilla connections
-[24Mar2025 20:35:34.051] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/192.168.194.29:63204] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[24Mar2025 20:35:35.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set the time to 1000]
-[24Mar2025 20:35:55.208] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,framework:play,uteamcore:network_forge,curios:main,usefulbackpacks:slot_mod,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,tombstone:tombstone_channel,mowziesmobs:net,uteamcore:network,geckolib:main,waystones:network] rejected vanilla connections
-[24Mar2025 20:35:55.208] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/192.168.194.29:63217] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[24Mar2025 20:36:19.570] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,framework:play,uteamcore:network_forge,curios:main,usefulbackpacks:slot_mod,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,tombstone:tombstone_channel,mowziesmobs:net,uteamcore:network,geckolib:main,waystones:network] rejected vanilla connections
-[24Mar2025 20:36:19.570] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/192.168.194.29:63218] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[24Mar2025 20:37:27.616] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,citadel:main_channel,securitycraft:securitycraft,framework:play,uteamcore:network_forge,curios:main,usefulbackpacks:slot_mod,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,tombstone:tombstone_channel,mowziesmobs:net,uteamcore:network,geckolib:main,waystones:network] rejected vanilla connections
-[24Mar2025 20:37:27.616] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/192.168.194.29:63367] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[24Mar2025 20:38:04.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> a quien le falta su mochila
-[24Mar2025 20:38:25.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> mochila?
-[24Mar2025 20:38:29.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
-[24Mar2025 20:38:31.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> si
-[24Mar2025 20:38:51.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Midgard2552[/192.168.194.29:63480] logged in with entity id 3277 at (-44.5, 62.0, 84.5)
-[24Mar2025 20:38:51.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 joined the game
-[24Mar2025 20:38:51.716] [Server thread/INFO] [Jade/]: Syncing config to Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721)
-[24Mar2025 20:38:51.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has reached the goal [Easter]
-[24Mar2025 20:38:52.717] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Midgard2552 (18)
-[24Mar2025 20:38:52.717] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Midgard2552
-[24Mar2025 20:38:54.293] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7b2f48e0-3526-383b-968c-7681c44da721
-[24Mar2025 20:38:55.322] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7b2f48e0-3526-383b-968c-7681c44da721
-[24Mar2025 20:38:55.323] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721) successfully connected to voice chat
-[24Mar2025 20:40:01.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pokeiro: No skin changes]
-[24Mar2025 20:40:03.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Stone Age]
-[24Mar2025 20:40:22.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> pongan /skin y pongan un nombre y se les cambia
-[24Mar2025 20:40:33.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> ya se pueden ir
-[24Mar2025 20:40:38.521] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
-[24Mar2025 20:40:38.571] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
-[24Mar2025 20:40:49.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> pon /skin sapo
-[24Mar2025 20:40:59.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> xd
-[24Mar2025 20:41:12.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pokeiro: Skin changed]
-[24Mar2025 20:41:31.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Monster Hunter]
-[24Mar2025 20:41:31.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [A Strange Grave Dust]
-[24Mar2025 20:41:38.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pokeiro: Skin changed]
-[24Mar2025 20:42:14.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Getting an Upgrade]
-[24Mar2025 20:42:50.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pokeiro: Skin changed]
-[24Mar2025 20:43:36.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> aaa
-[24Mar2025 20:43:39.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
-[24Mar2025 20:43:42.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has made the advancement [Alex's Mobs]
-[24Mar2025 20:44:15.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> xd casi muero
-[24Mar2025 20:44:39.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> los escucho bajo
-[24Mar2025 20:44:47.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> como les subo el volumenm
-[24Mar2025 20:44:48.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> no nos escuchas we
-[24Mar2025 20:44:56.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> presiona N rey
-[24Mar2025 20:45:00.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> dle a lA v
-[24Mar2025 20:45:05.851] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
-[24Mar2025 20:45:05.851] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
-[24Mar2025 20:45:05.862] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
-[24Mar2025 20:45:05.862] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
-[24Mar2025 20:45:05.863] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
-[24Mar2025 20:45:05.863] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
-[24Mar2025 20:45:05.863] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
-[24Mar2025 20:45:05.865] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
-[24Mar2025 20:45:05.866] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
-[24Mar2025 20:45:05.886] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
-[24Mar2025 20:45:05.895] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
-[24Mar2025 20:45:05.896] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
-[24Mar2025 20:45:05.896] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
-[24Mar2025 20:45:05.896] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
-[24Mar2025 20:45:05.896] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
-[24Mar2025 20:45:06.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> no ay nada en esa cueva
-[24Mar2025 20:45:15.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set the time to 1000]
-[24Mar2025 20:45:28.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyy7w77> dondeeee estassss lancew
-[24Mar2025 20:45:32.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> aldea
-[24Mar2025 20:45:40.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
-[24Mar2025 20:45:45.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> donde
-[24Mar2025 20:45:50.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported gabyy7w77 to Lancelot]
-[24Mar2025 20:46:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Easter Egg Searcher]
-[24Mar2025 20:46:12.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> este pepito se llevo el unico arbol de aca
-[24Mar2025 20:47:33.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has reached the goal [Flowers of the Savanna]
-[24Mar2025 20:47:37.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to gabyy7w77]
-[24Mar2025 20:47:40.332] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
-[24Mar2025 20:47:40.333] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
-[24Mar2025 20:47:40.333] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
-[24Mar2025 20:47:46.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Alex's Mobs]
-[24Mar2025 20:48:06.703] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
-[24Mar2025 20:48:06.703] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
-[24Mar2025 20:48:34.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> voy a esclavizar como en la decada de los 70
-[24Mar2025 20:48:37.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Stone Age]
-[24Mar2025 20:48:52.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has made the advancement [Stone Age]
-[24Mar2025 20:49:15.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has made the advancement [Getting an Upgrade]
-[24Mar2025 20:49:27.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported pepito to gabyy7w77]
-[24Mar2025 20:49:31.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Easter Egg Searcher]
-[24Mar2025 20:49:37.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyy7w77> lanceeeeee donde estas
-[24Mar2025 20:49:44.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> oe
-[24Mar2025 20:49:49.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> dale a la G
-[24Mar2025 20:50:17.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has reached the goal [Flowers of the Savanna]
-[24Mar2025 20:50:36.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> shit y click derecho
-[24Mar2025 20:50:46.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Stone Age]
-[24Mar2025 20:50:51.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Stone Age]
-[24Mar2025 20:51:08.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Getting an Upgrade]
-[24Mar2025 20:51:41.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported gabyy7w77 to Aleksito27]
-[24Mar2025 20:51:54.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported pepito to gabyy7w77]
-[24Mar2025 20:53:02.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Getting an Upgrade]
-[24Mar2025 20:53:36.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepito lost connection: Disconnected
-[24Mar2025 20:53:36.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito left the game
-[24Mar2025 20:53:36.284] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pepito
-[24Mar2025 20:53:42.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lancelot moved wrongly!
-[24Mar2025 20:54:25.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
-[24Mar2025 20:54:35.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Amateur Archaeologist]
-[24Mar2025 20:54:43.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
-[24Mar2025 20:55:24.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> ya es de noche apestosos duerman
-[24Mar2025 20:55:31.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Sweet Dreams]
-[24Mar2025 20:55:41.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Sweet Dreams]
-[24Mar2025 20:56:08.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Monster Hunter]
-[24Mar2025 20:56:33.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Acquire Hardware]
-[24Mar2025 20:56:57.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Isn't It Iron Pick]
-[24Mar2025 20:56:58.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> si junto cuerpos aparece itachi?
-[24Mar2025 20:57:06.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyy7w77> duerman
-[24Mar2025 20:57:11.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set the time to 1000]
-[24Mar2025 20:57:19.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> pero si en la aldea habia camas
-[24Mar2025 20:57:24.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepito[/192.168.194.247:58336] logged in with entity id 16917 at (346.701853652765, 87.0, -138.41628238892633)
-[24Mar2025 20:57:24.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito joined the game
-[24Mar2025 20:57:24.966] [Server thread/INFO] [Jade/]: Syncing config to pepito (3b6eece8-baa9-3e51-8999-07090befd51e)
-[24Mar2025 20:57:25.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has made the advancement [Stone Age]
-[24Mar2025 20:57:28.026] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepito (18)
-[24Mar2025 20:57:28.027] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepito
-[24Mar2025 20:57:34.304] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3b6eece8-baa9-3e51-8999-07090befd51e
-[24Mar2025 20:57:34.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito was slain by Bison
-[24Mar2025 20:57:34.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Your First Grave]
-[24Mar2025 20:57:34.567] [Server thread/INFO] [tombstone/]: The player pepito has successfully been saved
-[24Mar2025 20:57:35.208] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3b6eece8-baa9-3e51-8999-07090befd51e
-[24Mar2025 20:57:35.208] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pepito (3b6eece8-baa9-3e51-8999-07090befd51e) successfully connected to voice chat
-[24Mar2025 20:57:40.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> xd
-[24Mar2025 20:57:52.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
-[24Mar2025 20:57:53.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepito moved too quickly! 10.065478441483783,-1.0,1.2640152589466709
-[24Mar2025 20:58:22.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
-[24Mar2025 20:58:49.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to gabyy7w77]
-[24Mar2025 20:59:03.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Knowledge of Death]
-[24Mar2025 20:59:03.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Ambush]
-[24Mar2025 20:59:14.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Knowledge raises the soul]
-[24Mar2025 20:59:47.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Mind Your Manors]
-[24Mar2025 20:59:56.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> ez
-[24Mar2025 20:59:56.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has made the advancement [Monster Hunter]
-[24Mar2025 21:00:35.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Monster Hunter]
-[24Mar2025 21:01:46.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Knowledge of Death]
-[24Mar2025 21:01:46.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Ambush]
-[24Mar2025 21:01:46.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Monster Hunter]
-[24Mar2025 21:02:15.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Knowledge raises the soul]
-[24Mar2025 21:02:39.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> alguien pa juntarme?
-[24Mar2025 21:02:44.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> donde estas
-[24Mar2025 21:02:54.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> aleksito si quieres vente conmigo
-[24Mar2025 21:02:56.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to Pokeiro]
-[24Mar2025 21:02:57.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> tengo mansion
-[24Mar2025 21:02:57.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Mind Your Manors]
-[24Mar2025 21:04:23.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito was slain by Umvuthana
-[24Mar2025 21:04:23.798] [Server thread/INFO] [tombstone/]: The player pepito has successfully been saved
-[24Mar2025 21:04:26.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 was slain by Umvuthana Raptor
-[24Mar2025 21:04:26.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has made the advancement [Your First Grave]
-[24Mar2025 21:04:26.540] [Server thread/INFO] [tombstone/]: The player gabyy7w77 has successfully been saved
-[24Mar2025 21:04:40.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyy7w77> tp ayrton
-[24Mar2025 21:04:50.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported gabyy7w77 to Lancelot]
-[24Mar2025 21:05:02.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Vindicator
-[24Mar2025 21:05:02.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Your First Grave]
-[24Mar2025 21:05:02.048] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[24Mar2025 21:05:05.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Here They Come]
-[24Mar2025 21:05:14.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to Pokeiro]
-[24Mar2025 21:05:15.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro was slain by Vex
-[24Mar2025 21:05:15.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Your First Grave]
-[24Mar2025 21:05:15.564] [Server thread/INFO] [tombstone/]: The player Pokeiro has successfully been saved
-[24Mar2025 21:05:50.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro was slain by Vindicator
-[24Mar2025 21:05:50.993] [Server thread/INFO] [tombstone/]: The player Pokeiro has successfully been saved
-[24Mar2025 21:05:57.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Pokeiro to Aleksito27]
-[24Mar2025 21:06:00.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> XD
-[24Mar2025 21:06:04.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has reached the goal [Here They Come]
-[24Mar2025 21:06:04.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> se vale jugar bien
-[24Mar2025 21:06:20.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has reached the goal [Chain Death]
-[24Mar2025 21:06:20.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro was slain by Vindicator
-[24Mar2025 21:06:20.893] [Server thread/INFO] [tombstone/]: The player Pokeiro has successfully been saved
-[24Mar2025 21:06:22.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Knowledge of Death]
-[24Mar2025 21:06:22.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has reached the goal [Here They Come]
-[24Mar2025 21:06:23.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Acquire Hardware]
-[24Mar2025 21:06:53.998] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
-[24Mar2025 21:06:54.006] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
-[24Mar2025 21:06:54.006] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
-[24Mar2025 21:06:54.006] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
-[24Mar2025 21:06:54.006] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
-[24Mar2025 21:06:54.007] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
-[24Mar2025 21:06:54.031] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
-[24Mar2025 21:06:54.037] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
-[24Mar2025 21:06:54.037] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
-[24Mar2025 21:06:54.037] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
-[24Mar2025 21:06:59.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Ol' Betsy]
-[24Mar2025 21:06:59.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Take Aim]
-[24Mar2025 21:07:07.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> casi muero
-[24Mar2025 21:07:07.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Who's the Pillager Now?]
-[24Mar2025 21:07:14.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was shot by Pillager
-[24Mar2025 21:07:14.888] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[24Mar2025 21:07:22.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to Pokeiro]
-[24Mar2025 21:07:25.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> con esos
-[24Mar2025 21:07:34.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Fortuitous Militia]
-[24Mar2025 21:08:17.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Isn't It Iron Pick]
-[24Mar2025 21:08:28.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> xd cangoro
-[24Mar2025 21:08:32.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Vindicator
-[24Mar2025 21:08:32.499] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[24Mar2025 21:08:40.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to Pokeiro]
-[24Mar2025 21:09:04.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito was shot by Skeleton
-[24Mar2025 21:09:04.893] [Server thread/INFO] [tombstone/]: The player pepito has successfully been saved
-[24Mar2025 21:10:15.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has made the advancement [Sweet Dreams]
-[24Mar2025 21:10:18.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Ol' Betsy]
-[24Mar2025 21:10:20.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has made the advancement [Sweet Dreams]
-[24Mar2025 21:10:22.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Take Aim]
-[24Mar2025 21:10:29.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyy7w77> duerman
-[24Mar2025 21:10:35.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> tamos peleando
-[24Mar2025 21:10:41.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set the time to 1000]
-[24Mar2025 21:11:07.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyy7w77> ayrton tp
-[24Mar2025 21:11:11.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyy7w77> a pepito
-[24Mar2025 21:11:13.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> a mi
-[24Mar2025 21:11:16.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Acquire Hardware]
-[24Mar2025 21:11:19.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported pepito to gabyy7w77]
-[24Mar2025 21:11:41.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> no
-[24Mar2025 21:11:47.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Suit Up]
-[24Mar2025 21:11:54.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Suit Up]
-[24Mar2025 21:12:49.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has made the advancement [Monster Hunter]
-[24Mar2025 21:13:52.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [A Strange Grave Dust]
-[24Mar2025 21:14:58.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Vindicator
-[24Mar2025 21:14:58.712] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[24Mar2025 21:15:00.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [The Most Useful Key]
-[24Mar2025 21:15:01.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro was slain by Vindicator
-[24Mar2025 21:15:02.006] [Server thread/INFO] [tombstone/]: The player Pokeiro has successfully been saved
-[24Mar2025 21:15:03.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [A Fast Comeback]
-[24Mar2025 21:15:04.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> XDDD
-[24Mar2025 21:15:12.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Pokeiro to Aleksito27]
-[24Mar2025 21:15:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has made the advancement [Mine? Mine? Mine?]
-[24Mar2025 21:15:34.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Easter Egg Searcher]
-[24Mar2025 21:15:37.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Chain Death]
-[24Mar2025 21:15:37.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Vindicator
-[24Mar2025 21:15:37.460] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[24Mar2025 21:16:32.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyy7w77> lance donde estas?
-[24Mar2025 21:16:40.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> me percigen
-[24Mar2025 21:16:49.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> tu viejita vio las notas
-[24Mar2025 21:17:26.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito was doomed to fall by Zombie
-[24Mar2025 21:17:26.508] [Server thread/INFO] [tombstone/]: The player pepito has successfully been saved
-[24Mar2025 21:17:29.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> XD
-[24Mar2025 21:17:35.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> tmr
-[24Mar2025 21:17:45.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> xxd
-[24Mar2025 21:17:57.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> me acuerdo que caminaba un culo para ir a mi tumba
-[24Mar2025 21:18:19.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> pero es que si era diversion asi pes
-[24Mar2025 21:19:28.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> nose cuando es noche y cunado es dia
-[24Mar2025 21:20:23.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Midgard2552 lost connection: Disconnected
-[24Mar2025 21:20:23.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 left the game
-[24Mar2025 21:20:23.619] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Midgard2552
-[24Mar2025 21:22:39.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Mine? Mine? Mine?]
-[24Mar2025 21:22:47.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has reached the goal [Fortuitous Militia]
-[24Mar2025 21:24:12.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro was slain by Vindicator
-[24Mar2025 21:24:12.446] [Server thread/INFO] [tombstone/]: The player Pokeiro has successfully been saved
-[24Mar2025 21:24:16.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> xd
-[24Mar2025 21:25:14.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 was slain by Spider
-[24Mar2025 21:25:14.995] [Server thread/INFO] [tombstone/]: The player gabyy7w77 has successfully been saved
-[24Mar2025 21:25:39.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has reached the goal [Here They Come]
-[24Mar2025 21:26:02.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Midgard2552[/192.168.194.29:64332] logged in with entity id 41408 at (-294.4813166304245, 32.0, 92.9423403680445)
-[24Mar2025 21:26:02.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 joined the game
-[24Mar2025 21:26:02.317] [Server thread/INFO] [Jade/]: Syncing config to Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721)
-[24Mar2025 21:26:02.656] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Midgard2552 (18)
-[24Mar2025 21:26:02.656] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Midgard2552
-[24Mar2025 21:26:03.166] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7b2f48e0-3526-383b-968c-7681c44da721
-[24Mar2025 21:26:04.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7b2f48e0-3526-383b-968c-7681c44da721
-[24Mar2025 21:26:04.168] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721) successfully connected to voice chat
-[24Mar2025 21:26:06.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro was slain by Vindicator
-[24Mar2025 21:26:06.157] [Server thread/INFO] [tombstone/]: The player Pokeiro has successfully been saved
-[24Mar2025 21:26:19.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> tengo casa
-[24Mar2025 21:26:24.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> comida
-[24Mar2025 21:26:33.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> apunto de mecharme con ladrones
-[24Mar2025 21:27:52.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Sweet Dreams]
-[24Mar2025 21:28:23.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Sweet Dreams]
-[24Mar2025 21:28:27.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> a asd
-[24Mar2025 21:28:42.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> a que hora se hace de dia
-[24Mar2025 21:29:08.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyy7w77> duerman
-[24Mar2025 21:29:13.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> ya
-[24Mar2025 21:29:15.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> go velada
-[24Mar2025 21:29:22.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> duerme
-[24Mar2025 21:30:45.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has made the advancement [We do a little trolling...]
-[24Mar2025 21:31:18.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [We do a little trolling...]
-[24Mar2025 21:31:36.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has made the advancement [Knowledge of Death]
-[24Mar2025 21:31:36.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has reached the goal [Strong or Careful]
-[24Mar2025 21:31:36.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot was slain by Skeleton
-[24Mar2025 21:31:36.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has made the advancement [Your First Grave]
-[24Mar2025 21:31:36.219] [Server thread/INFO] [tombstone/]: The player Lancelot has successfully been saved
-[24Mar2025 21:31:36.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro was slain by Vindicator
-[24Mar2025 21:31:36.664] [Server thread/INFO] [tombstone/]: The player Pokeiro has successfully been saved
-[24Mar2025 21:31:49.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro fell from a high place
-[24Mar2025 21:31:49.253] [Server thread/INFO] [tombstone/]: The player Pokeiro has successfully been saved
-[24Mar2025 21:32:06.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has reached the goal [Here They Come]
-[24Mar2025 21:32:44.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> que
-[24Mar2025 21:33:18.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> que estas asiendo
-[24Mar2025 21:34:13.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> turtogas
-[24Mar2025 21:34:44.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> mira
-[24Mar2025 21:35:33.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> espera me muero de prueba
-[24Mar2025 21:35:44.268] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[24Mar2025 21:37:07.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Iron Golem
-[24Mar2025 21:37:07.489] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[24Mar2025 21:37:13.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> xd
-[24Mar2025 21:37:17.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Knowledge of Death]
-[24Mar2025 21:37:17.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has reached the goal [Here They Come]
-[24Mar2025 21:38:08.273] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseSilva[/192.168.194.43:49918] logged in with entity id 51268 at (-55.5, 64.0, 90.5)
-[24Mar2025 21:38:08.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva joined the game
-[24Mar2025 21:38:08.309] [Server thread/INFO] [Jade/]: Syncing config to JoseSilva (b19012b1-24d5-3698-9f2c-befb19d72090)
-[24Mar2025 21:38:08.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva has reached the goal [Easter]
-[24Mar2025 21:38:09.686] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JoseSilva (18)
-[24Mar2025 21:38:09.686] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JoseSilva
-[24Mar2025 21:38:12.066] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b19012b1-24d5-3698-9f2c-befb19d72090
-[24Mar2025 21:38:13.067] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b19012b1-24d5-3698-9f2c-befb19d72090
-[24Mar2025 21:38:13.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JoseSilva (b19012b1-24d5-3698-9f2c-befb19d72090) successfully connected to voice chat
-[24Mar2025 21:38:14.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Knowledge raises the soul]
-[24Mar2025 21:38:34.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> no
-[24Mar2025 21:38:43.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JoseSilva: No skin changes]
-[24Mar2025 21:38:59.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> no
-[24Mar2025 21:39:44.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> ya lo vi
-[24Mar2025 21:39:51.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> es por mi graficos
-[24Mar2025 21:40:07.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> TBKnowledge
-[24Mar2025 21:40:11.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> alecsito
-[24Mar2025 21:40:24.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> dile a alguien que me ayude a natar a aesqueletos
-[24Mar2025 21:40:53.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[24Mar2025 21:40:53.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TBKnowledge<--[HERE]
-[24Mar2025 21:40:58.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[24Mar2025 21:40:58.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TBKnowledge<--[HERE]
-[24Mar2025 21:41:07.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> vajo tierra
-[24Mar2025 21:41:11.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> vajo
-[24Mar2025 21:41:17.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> nose
-[24Mar2025 21:41:19.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has made the advancement [The Lighthouse]
-[24Mar2025 21:41:23.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [The Lighthouse]
-[24Mar2025 21:41:30.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JoseSilva: Skin changed]
-[24Mar2025 21:41:50.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro was shot by Pillager
-[24Mar2025 21:41:50.346] [Server thread/INFO] [tombstone/]: The player Pokeiro has successfully been saved
-[24Mar2025 21:42:03.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> ayuden
-[24Mar2025 21:42:07.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> ya tenemos base
-[24Mar2025 21:42:08.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> un quipo fuerte
-[24Mar2025 21:42:46.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9492ms or 189 ticks behind
-[24Mar2025 21:42:47.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseSilva moved too quickly! -3.06779550243175,0.0,-9.719333565448409
-[24Mar2025 21:42:47.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> xdd
-[24Mar2025 21:42:56.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Acquire Hardware]
-[24Mar2025 21:43:08.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> si
-[24Mar2025 21:43:21.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[24Mar2025 21:43:53.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[24Mar2025 21:44:05.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyy7w77> duerman
-[24Mar2025 21:44:37.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva has made the advancement [Sweet Dreams]
-[24Mar2025 21:44:41.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[24Mar2025 21:45:12.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
-[24Mar2025 21:45:26.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[24Mar2025 21:45:26.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> tengo mina
-[24Mar2025 21:45:26.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> gaby no puedo dormir, estoy con muchos moustros
-[24Mar2025 21:45:36.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has made the advancement [Getting an Upgrade]
-[24Mar2025 21:45:52.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> mira
-[24Mar2025 21:45:54.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[24Mar2025 21:46:22.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[24Mar2025 21:46:48.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[24Mar2025 21:47:16.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[24Mar2025 21:47:33.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Iron Golem
-[24Mar2025 21:47:33.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Your First Grave]
-[24Mar2025 21:47:33.481] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[24Mar2025 21:47:39.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EnyelBlue[/192.168.194.197:16436] logged in with entity id 59255 at (-41.5, 60.0, 81.5)
-[24Mar2025 21:47:39.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue joined the game
-[24Mar2025 21:47:39.503] [Server thread/INFO] [Jade/]: Syncing config to EnyelBlue (f96bd646-0553-3924-bf94-b67f5883958a)
-[24Mar2025 21:47:39.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue has reached the goal [Easter]
-[24Mar2025 21:47:40.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
-[24Mar2025 21:47:42.470] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EnyelBlue (18)
-[24Mar2025 21:47:42.471] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EnyelBlue
-[24Mar2025 21:47:47.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f96bd646-0553-3924-bf94-b67f5883958a
-[24Mar2025 21:47:48.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f96bd646-0553-3924-bf94-b67f5883958a
-[24Mar2025 21:47:48.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EnyelBlue (f96bd646-0553-3924-bf94-b67f5883958a) successfully connected to voice chat
-[24Mar2025 21:47:59.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3276ms or 65 ticks behind
-[24Mar2025 21:48:14.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue has made the advancement [Alex's Mobs]
-[24Mar2025 21:48:16.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2471ms or 49 ticks behind
-[24Mar2025 21:48:24.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JoseSilva: No skin changes]
-[24Mar2025 21:48:34.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3061ms or 61 ticks behind
-[24Mar2025 21:48:53.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3563ms or 71 ticks behind
-[24Mar2025 21:49:12.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4500ms or 90 ticks behind
-[24Mar2025 21:49:32.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4833ms or 96 ticks behind
-[24Mar2025 21:49:39.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EnyelBlue lost connection: Disconnected
-[24Mar2025 21:49:39.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue left the game
-[24Mar2025 21:49:39.759] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EnyelBlue
-[24Mar2025 21:49:39.856] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[24Mar2025 21:49:47.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to Midgard2552]
-[24Mar2025 21:49:50.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2811ms or 56 ticks behind
-[24Mar2025 21:49:55.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
-[24Mar2025 21:49:59.896] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EnyelBlue[/192.168.194.197:16567] logged in with entity id 61200 at (39.437225278339234, 64.0, -24.106367922539352)
-[24Mar2025 21:49:59.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue joined the game
-[24Mar2025 21:49:59.927] [Server thread/INFO] [Jade/]: Syncing config to EnyelBlue (f96bd646-0553-3924-bf94-b67f5883958a)
-[24Mar2025 21:50:00.658] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EnyelBlue (18)
-[24Mar2025 21:50:00.658] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EnyelBlue
-[24Mar2025 21:50:07.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[24Mar2025 21:50:11.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [The Most Useful Key]
-[24Mar2025 21:50:14.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has reached the goal [A Fast Comeback]
-[24Mar2025 21:50:25.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3211ms or 64 ticks behind
-[24Mar2025 21:50:28.607] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f96bd646-0553-3924-bf94-b67f5883958a
-[24Mar2025 21:50:29.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f96bd646-0553-3924-bf94-b67f5883958a
-[24Mar2025 21:50:29.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EnyelBlue (f96bd646-0553-3924-bf94-b67f5883958a) successfully connected to voice chat
-[24Mar2025 21:50:44.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3611ms or 72 ticks behind
-[24Mar2025 21:50:57.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EnyelBlue lost connection: Timed out
-[24Mar2025 21:50:57.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue left the game
-[24Mar2025 21:50:57.467] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EnyelBlue
-[24Mar2025 21:50:57.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
-[24Mar2025 21:51:03.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4135ms or 82 ticks behind
-[24Mar2025 21:51:07.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> pokeiro
-[24Mar2025 21:51:21.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3249ms or 64 ticks behind
-[24Mar2025 21:51:25.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EnyelBlue[/192.168.194.197:44624] logged in with entity id 62534 at (39.437225278339234, 64.0, -24.106367922539352)
-[24Mar2025 21:51:25.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue joined the game
-[24Mar2025 21:51:25.769] [Server thread/INFO] [Jade/]: Syncing config to EnyelBlue (f96bd646-0553-3924-bf94-b67f5883958a)
-[24Mar2025 21:51:26.548] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EnyelBlue (18)
-[24Mar2025 21:51:26.548] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EnyelBlue
-[24Mar2025 21:51:28.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to Pokeiro]
-[24Mar2025 21:51:29.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f96bd646-0553-3924-bf94-b67f5883958a
-[24Mar2025 21:51:30.821] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f96bd646-0553-3924-bf94-b67f5883958a
-[24Mar2025 21:51:30.821] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EnyelBlue (f96bd646-0553-3924-bf94-b67f5883958a) successfully connected to voice chat
-[24Mar2025 21:51:40.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4161ms or 83 ticks behind
-[24Mar2025 21:51:58.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3438ms or 68 ticks behind
-[24Mar2025 21:52:16.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Iron Golem
-[24Mar2025 21:52:16.132] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[24Mar2025 21:52:16.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2925ms or 58 ticks behind
-[24Mar2025 21:52:35.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4146ms or 82 ticks behind
-[24Mar2025 21:52:47.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Not Today, Thank You]
-[24Mar2025 21:52:54.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3542ms or 70 ticks behind
-[24Mar2025 21:53:04.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:enderperl'
-[24Mar2025 21:53:04.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ve midgar enderperl 10<--[HERE]
-[24Mar2025 21:53:12.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3514ms or 70 ticks behind
-[24Mar2025 21:53:15.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> piola la casa
-[24Mar2025 21:53:32.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4139ms or 82 ticks behind
-[24Mar2025 21:53:35.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue has made the advancement [Stone Age]
-[24Mar2025 21:53:43.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Gave 10 [Ender Pearl] to Midgard2552]
-[24Mar2025 21:53:51.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4143ms or 82 ticks behind
-[24Mar2025 21:53:57.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> se puede prender el faro
-[24Mar2025 21:54:06.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> si
-[24Mar2025 21:54:10.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4059ms or 81 ticks behind
-[24Mar2025 21:54:29.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3966ms or 79 ticks behind
-[24Mar2025 21:54:49.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5627ms or 112 ticks behind
-[24Mar2025 21:54:53.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> ya
-[24Mar2025 21:55:10.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5679ms or 113 ticks behind
-[24Mar2025 21:55:31.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5893ms or 117 ticks behind
-[24Mar2025 21:55:51.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5607ms or 112 ticks behind
-[24Mar2025 21:55:58.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has made the advancement [Cover Me with Diamonds]
+[24Mar2025 22:02:32.344] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[24Mar2025 22:02:32.347] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[24Mar2025 22:02:33.421] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Mar2025 22:02:33.487] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/TheGame/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[24Mar2025 22:02:33.839] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TheGame/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[24Mar2025 22:02:33.843] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TheGame/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[24Mar2025 22:02:33.844] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TheGame/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[24Mar2025 22:02:33.846] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TheGame/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[24Mar2025 22:02:34.061] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[24Mar2025 22:02:34.063] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[24Mar2025 22:02:36.479] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Mar2025 22:02:36.644] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24Mar2025 22:02:36.796] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[24Mar2025 22:02:36.797] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[24Mar2025 22:02:36.815] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[24Mar2025 22:02:36.936] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 100 options available, 0 override(s) found
+[24Mar2025 22:02:36.955] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Mar2025 22:02:37.099] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[24Mar2025 22:02:37.295] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
+[24Mar2025 22:02:38.720] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[24Mar2025 22:02:38.721] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[24Mar2025 22:02:38.987] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[24Mar2025 22:02:39.661] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.859 s after launch)
+[24Mar2025 22:02:39.827] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[24Mar2025 22:02:39.828] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[24Mar2025 22:02:41.518] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1853 milliseconds
+[24Mar2025 22:02:45.037] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[24Mar2025 22:02:45.039] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[24Mar2025 22:02:45.041] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[24Mar2025 22:02:45.042] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[24Mar2025 22:02:45.046] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[24Mar2025 22:02:45.047] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[24Mar2025 22:02:45.050] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[24Mar2025 22:02:45.052] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[24Mar2025 22:02:45.185] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[24Mar2025 22:02:45.185] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[24Mar2025 22:02:45.185] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[24Mar2025 22:02:45.186] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[24Mar2025 22:02:45.186] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[24Mar2025 22:02:45.186] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[24Mar2025 22:02:45.187] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[24Mar2025 22:02:45.218] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[24Mar2025 22:02:45.233] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[24Mar2025 22:02:45.235] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[24Mar2025 22:02:45.271] [modloading-worker-0/INFO] [chloride/Main]: Chloride is not intended to be on servers, loaded in inner mode
+[24Mar2025 22:02:45.283] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[24Mar2025 22:02:45.301] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Booting... (platform: Forge, manual: false)
+[24Mar2025 22:02:45.301] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Found Mixin library. (version: 0.8.5)
+[24Mar2025 22:02:45.302] [modloading-worker-0/INFO] [Ksyxis/]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (0 ms)
+[24Mar2025 22:02:45.363] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[24Mar2025 22:02:45.708] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[24Mar2025 22:02:45.785] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[24Mar2025 22:02:48.978] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[24Mar2025 22:02:49.112] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
+[24Mar2025 22:02:49.155] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[24Mar2025 22:02:49.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[24Mar2025 22:02:49.249] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[24Mar2025 22:02:49.262] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[24Mar2025 22:02:49.262] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[24Mar2025 22:02:49.262] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[24Mar2025 22:02:49.513] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[24Mar2025 22:02:49.514] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[24Mar2025 22:02:49.539] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[24Mar2025 22:02:49.539] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[24Mar2025 22:02:49.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[24Mar2025 22:02:49.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[24Mar2025 22:02:49.859] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[24Mar2025 22:02:49.867] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[24Mar2025 22:02:49.868] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[24Mar2025 22:02:49.879] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[24Mar2025 22:02:49.883] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[24Mar2025 22:02:49.884] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
+[24Mar2025 22:02:49.885] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[24Mar2025 22:02:49.886] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[24Mar2025 22:02:50.012] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.346 Target: null
+[24Mar2025 22:02:50.015] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Mar2025 22:02:50.495] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Mar2025 22:02:50.579] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[24Mar2025 22:02:50.589] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.0 Target: 47.4.0
+[24Mar2025 22:02:50.589] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[24Mar2025 22:02:50.648] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.124 Target: null
+[24Mar2025 22:02:50.648] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[24Mar2025 22:02:50.821] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/TheGame/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/assets/.mcassetsroot' uses unexpected schema
+[24Mar2025 22:02:50.822] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/TheGame/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/data/.mcassetsroot' uses unexpected schema
+[24Mar2025 22:02:51.507] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.28
+[24Mar2025 22:02:51.508] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[24Mar2025 22:02:51.656] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[24Mar2025 22:02:51.657] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_forge.json
+[24Mar2025 22:02:51.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.3.3 Target: null
+[24Mar2025 22:02:51.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[24Mar2025 22:02:51.999] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
+[24Mar2025 22:02:51.999] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[24Mar2025 22:02:52.127] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[24Mar2025 22:02:52.128] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[24Mar2025 22:02:52.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[24Mar2025 22:02:52.621] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[24Mar2025 22:02:52.834] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[24Mar2025 22:02:52.909] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[24Mar2025 22:02:52.909] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[24Mar2025 22:02:52.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.2 Target: null
+[24Mar2025 22:02:52.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[24Mar2025 22:02:53.023] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.2.jar
+[24Mar2025 22:02:53.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.4+mc1.20.1-build.131 Target: null
+[24Mar2025 22:02:53.087] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[24Mar2025 22:02:53.279] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[24Mar2025 22:02:53.952] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[24Mar2025 22:02:54.119] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2723 advancements
+[24Mar2025 22:02:54.134] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[24Mar2025 22:02:54.140] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[24Mar2025 22:02:54.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24Mar2025 22:02:54.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Mar2025 22:02:54.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Mar2025 22:02:54.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Mar2025 22:02:54.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Mar2025 22:02:54.546] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Mar2025 22:02:54.622] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Mar2025 22:02:54.622] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Mar2025 22:02:54.623] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Mar2025 22:02:54.623] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Mar2025 22:02:54.724] [Server thread/INFO] [Framework/]: Loading server configs...
+[24Mar2025 22:02:54.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Mar2025 22:02:55.574] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:0 potentially creating overlapping structures detected. Structure sets: [minecraft:mineshafts, minecraft:strongholds, minecraft:buried_treasures]
+[24Mar2025 22:02:55.575] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:783 potentially creating overlapping structures detected. Structure sets: [nova_structures:taverns, nova_structures:badlands_miner_outpost]
+[24Mar2025 22:02:55.575] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387312 potentially creating overlapping structures detected. Structure sets: [minecraft:villages, nova_structures:villages_jungle, nova_structures:villages_swamp]
+[24Mar2025 22:02:55.575] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387313 potentially creating overlapping structures detected. Structure sets: [minecraft:ocean_monuments, minecraft:end_cities]
+[24Mar2025 22:02:55.575] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:4533232 potentially creating overlapping structures detected. Structure sets: [nova_structures:illager_camp, nova_structures:nether_camps]
+[24Mar2025 22:02:55.576] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:239021 potentially creating overlapping structures detected. Structure sets: [nova_structures:desert_ruins, nova_structures:jungle_ruins]
+[24Mar2025 22:02:55.709] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[24Mar2025 22:02:55.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Mar2025 22:02:55.834] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 121 ms
+[24Mar2025 22:02:55.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.200s)! For help, type "help"
+[24Mar2025 22:02:55.882] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Mar2025 22:02:55.917] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[24Mar2025 22:02:55.927] [Server thread/WARN] [ModernFix/]: Dedicated server took 26.126 seconds to load
+[24Mar2025 22:02:55.928] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[24Mar2025 22:03:27.088] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[24Mar2025 22:03:27.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Midgard2552[/192.168.194.29:64950] logged in with entity id 433 at (-314.3856890856712, 63.9375, 108.51723916271281)
+[24Mar2025 22:03:27.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 joined the game
+[24Mar2025 22:03:27.395] [Server thread/INFO] [Jade/]: Syncing config to Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721)
+[24Mar2025 22:03:27.957] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Midgard2552 (18)
+[24Mar2025 22:03:27.959] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Midgard2552
+[24Mar2025 22:03:28.210] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7b2f48e0-3526-383b-968c-7681c44da721
+[24Mar2025 22:03:29.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7b2f48e0-3526-383b-968c-7681c44da721
+[24Mar2025 22:03:29.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721) successfully connected to voice chat
+[24Mar2025 22:03:41.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Iron Golem
+[24Mar2025 22:03:41.316] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[24Mar2025 22:04:19.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Iron Golem
+[24Mar2025 22:04:19.298] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[24Mar2025 22:04:25.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EnyelBlue[/192.168.194.197:45330] logged in with entity id 1622 at (38.462810850652744, 61.0, -27.30000001192093)
+[24Mar2025 22:04:25.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue joined the game
+[24Mar2025 22:04:25.397] [Server thread/INFO] [Jade/]: Syncing config to EnyelBlue (f96bd646-0553-3924-bf94-b67f5883958a)
+[24Mar2025 22:04:25.825] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EnyelBlue (18)
+[24Mar2025 22:04:25.826] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EnyelBlue
+[24Mar2025 22:04:27.335] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f96bd646-0553-3924-bf94-b67f5883958a
+[24Mar2025 22:04:28.336] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f96bd646-0553-3924-bf94-b67f5883958a
+[24Mar2025 22:04:28.337] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EnyelBlue (f96bd646-0553-3924-bf94-b67f5883958a) successfully connected to voice chat
+[24Mar2025 22:05:33.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepito[/192.168.194.247:52980] logged in with entity id 2119 at (-1010.5, 84.0, 36.5)
+[24Mar2025 22:05:33.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito joined the game
+[24Mar2025 22:05:33.822] [Server thread/INFO] [Jade/]: Syncing config to pepito (3b6eece8-baa9-3e51-8999-07090befd51e)
+[24Mar2025 22:05:34.804] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepito (18)
+[24Mar2025 22:05:34.805] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepito
+[24Mar2025 22:05:37.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3b6eece8-baa9-3e51-8999-07090befd51e
+[24Mar2025 22:05:38.623] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3b6eece8-baa9-3e51-8999-07090befd51e
+[24Mar2025 22:05:38.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pepito (3b6eece8-baa9-3e51-8999-07090befd51e) successfully connected to voice chat
+[24Mar2025 22:06:09.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aleksito27[/192.168.194.10:62753] logged in with entity id 2658 at (-343.5358192313278, 66.0, 99.92500001192093)
+[24Mar2025 22:06:09.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 joined the game
+[24Mar2025 22:06:10.024] [Server thread/INFO] [Jade/]: Syncing config to Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb)
+[24Mar2025 22:06:10.259] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Aleksito27 (18)
+[24Mar2025 22:06:10.260] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Aleksito27
+[24Mar2025 22:06:11.577] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
+[24Mar2025 22:06:12.576] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
+[24Mar2025 22:06:12.576] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb) successfully connected to voice chat
+[24Mar2025 22:06:27.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Aleksito27
+[24Mar2025 22:06:27.160] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[24Mar2025 22:06:47.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Aleksito27
+[24Mar2025 22:06:47.717] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[24Mar2025 22:07:38.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue has made the advancement [Acquire Hardware]
+[24Mar2025 22:07:42.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was blown up by Creeper
+[24Mar2025 22:07:42.680] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[24Mar2025 22:07:50.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> xd
+[24Mar2025 22:07:54.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Midgard2552 lost connection: Disconnected
+[24Mar2025 22:07:54.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 left the game
+[24Mar2025 22:07:54.203] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Midgard2552
+[24Mar2025 22:07:59.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Mar2025 22:07:59.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Mar2025 22:07:59.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EnyelBlue lost connection: Server closed
+[24Mar2025 22:07:59.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue left the game
+[24Mar2025 22:07:59.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Mar2025 22:07:59.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Mar2025 22:08:00.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Mar2025 22:08:00.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Mar2025 22:08:00.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[24Mar2025 22:08:00.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Mar2025 22:08:00.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Mar2025 22:08:00.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Mar2025 22:08:00.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[24Mar2025 22:08:00.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Mar2025 22:08:00.217] [Server thread/INFO] [Framework/]: Unloading server configs...
+[24Mar2025 22:08:00.217] [Server thread/INFO] [Framework/]: Finished unloading server configs

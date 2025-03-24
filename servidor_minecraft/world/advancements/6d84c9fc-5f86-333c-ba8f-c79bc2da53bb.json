@@ -139,6 +139,24 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/echo_planks": {
+    "criteria": {
+      "has_logs": "2025-03-24 16:36:41 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_stairs_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-03-24 16:36:41 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-03-24 16:38:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-03-24 16:07:10 +0000"
@@ -151,9 +169,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-24 16:36:41 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_temple": {
+    "criteria": {
+      "ancient_temple": "2025-03-24 16:34:36 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/backpack_large": {
     "criteria": {
       "has_medium_backpack": "2025-03-24 16:20:38 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_slab": {
+    "criteria": {
+      "has_sculk_stone": "2025-03-24 16:36:41 +0000"
     },
     "done": true
   },
@@ -187,9 +223,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-03-24 16:38:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-03-24 16:12:17 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_stairs": {
+    "criteria": {
+      "has_sculk_stone": "2025-03-24 16:36:41 +0000"
     },
     "done": true
   },
@@ -208,6 +256,18 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-03-24 16:27:40 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_wall_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-03-24 16:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-24 16:36:41 +0000"
     },
     "done": true
   },
@@ -266,6 +326,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-03-24 16:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-03-24 16:06:41 +0000"
@@ -290,6 +356,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-24 16:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-24 16:36:41 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_wall": {
+    "criteria": {
+      "has_sculk_stone": "2025-03-24 16:36:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-24 16:07:10 +0000"
@@ -299,6 +383,12 @@
   "cataclysm:kill_ender_golem": {
     "criteria": {
       "endergolem": "2025-03-24 16:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-24 16:38:21 +0000"
     },
     "done": true
   },
@@ -341,6 +431,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-24 16:35:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-03-24 16:07:10 +0000"
@@ -356,6 +452,12 @@
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_heart_of_the_deep": "2025-03-24 16:31:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-03-24 16:35:16 +0000"
     },
     "done": true
   },
@@ -380,6 +482,18 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-03-24 16:13:34 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/echo_wood": {
+    "criteria": {
+      "has_log": "2025-03-24 16:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-24 16:36:41 +0000"
     },
     "done": true
   },
@@ -425,6 +539,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_slab_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-03-24 16:36:41 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/filter_tag": {
     "criteria": {
       "has_small_backpack": "2025-03-24 16:20:42 +0000"
@@ -437,6 +557,19 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "shriek_worm": "2025-03-24 16:37:30 +0000",
+      "sculk_snapper": "2025-03-24 16:36:28 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-03-24 16:37:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-03-24 16:07:04 +0000"
@@ -446,6 +579,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-03-24 16:13:20 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/smooth_sculk_stone": {
+    "criteria": {
+      "has_sculk_stone": "2025-03-24 16:36:41 +0000"
     },
     "done": true
   },
@@ -470,6 +609,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-03-24 16:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-24 16:43:07 +0000"
     },
     "done": true
   },

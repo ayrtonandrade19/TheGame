@@ -109,7 +109,7 @@
 	shuffle_players_for_siege = true
 	#Chance for a siege to occur [0..100|default:10]
 	#Range: 0 ~ 100
-	siege_chance = 10
+	siege_chance = 1
 	#Maximum of creatures appearing in a siege [0..100|default:20]
 	#Range: 0 ~ 100
 	siege_max_creature = 20
@@ -157,7 +157,7 @@
 	chance_soul = 100
 	#Chance to receive a random beneficial spell effect when praying near a grave [0..100|default:30]
 	#Range: 0 ~ 100
-	chance_pray_reward = 30
+	chance_pray_reward = 100
 
 #Options related to the command recovery and auto-save of players
 [recovery]

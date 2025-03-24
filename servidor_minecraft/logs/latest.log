@@ -659,3 +659,91 @@
 [24Mar2025 21:45:26.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> tengo mina
 [24Mar2025 21:45:26.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> gaby no puedo dormir, estoy con muchos moustros
 [24Mar2025 21:45:36.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has made the advancement [Getting an Upgrade]
+[24Mar2025 21:45:52.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> mira
+[24Mar2025 21:45:54.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Mar2025 21:46:22.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[24Mar2025 21:46:48.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Mar2025 21:47:16.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[24Mar2025 21:47:33.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Iron Golem
+[24Mar2025 21:47:33.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Your First Grave]
+[24Mar2025 21:47:33.481] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[24Mar2025 21:47:39.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EnyelBlue[/192.168.194.197:16436] logged in with entity id 59255 at (-41.5, 60.0, 81.5)
+[24Mar2025 21:47:39.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue joined the game
+[24Mar2025 21:47:39.503] [Server thread/INFO] [Jade/]: Syncing config to EnyelBlue (f96bd646-0553-3924-bf94-b67f5883958a)
+[24Mar2025 21:47:39.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue has reached the goal [Easter]
+[24Mar2025 21:47:40.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[24Mar2025 21:47:42.470] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EnyelBlue (18)
+[24Mar2025 21:47:42.471] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EnyelBlue
+[24Mar2025 21:47:47.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f96bd646-0553-3924-bf94-b67f5883958a
+[24Mar2025 21:47:48.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f96bd646-0553-3924-bf94-b67f5883958a
+[24Mar2025 21:47:48.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EnyelBlue (f96bd646-0553-3924-bf94-b67f5883958a) successfully connected to voice chat
+[24Mar2025 21:47:59.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3276ms or 65 ticks behind
+[24Mar2025 21:48:14.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue has made the advancement [Alex's Mobs]
+[24Mar2025 21:48:16.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2471ms or 49 ticks behind
+[24Mar2025 21:48:24.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JoseSilva: No skin changes]
+[24Mar2025 21:48:34.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3061ms or 61 ticks behind
+[24Mar2025 21:48:53.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3563ms or 71 ticks behind
+[24Mar2025 21:49:12.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4500ms or 90 ticks behind
+[24Mar2025 21:49:32.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4833ms or 96 ticks behind
+[24Mar2025 21:49:39.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EnyelBlue lost connection: Disconnected
+[24Mar2025 21:49:39.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue left the game
+[24Mar2025 21:49:39.759] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EnyelBlue
+[24Mar2025 21:49:39.856] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Mar2025 21:49:47.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to Midgard2552]
+[24Mar2025 21:49:50.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2811ms or 56 ticks behind
+[24Mar2025 21:49:55.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[24Mar2025 21:49:59.896] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EnyelBlue[/192.168.194.197:16567] logged in with entity id 61200 at (39.437225278339234, 64.0, -24.106367922539352)
+[24Mar2025 21:49:59.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue joined the game
+[24Mar2025 21:49:59.927] [Server thread/INFO] [Jade/]: Syncing config to EnyelBlue (f96bd646-0553-3924-bf94-b67f5883958a)
+[24Mar2025 21:50:00.658] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EnyelBlue (18)
+[24Mar2025 21:50:00.658] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EnyelBlue
+[24Mar2025 21:50:07.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[24Mar2025 21:50:11.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [The Most Useful Key]
+[24Mar2025 21:50:14.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has reached the goal [A Fast Comeback]
+[24Mar2025 21:50:25.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3211ms or 64 ticks behind
+[24Mar2025 21:50:28.607] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f96bd646-0553-3924-bf94-b67f5883958a
+[24Mar2025 21:50:29.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f96bd646-0553-3924-bf94-b67f5883958a
+[24Mar2025 21:50:29.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EnyelBlue (f96bd646-0553-3924-bf94-b67f5883958a) successfully connected to voice chat
+[24Mar2025 21:50:44.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3611ms or 72 ticks behind
+[24Mar2025 21:50:57.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EnyelBlue lost connection: Timed out
+[24Mar2025 21:50:57.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue left the game
+[24Mar2025 21:50:57.467] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EnyelBlue
+[24Mar2025 21:50:57.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[24Mar2025 21:51:03.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4135ms or 82 ticks behind
+[24Mar2025 21:51:07.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> pokeiro
+[24Mar2025 21:51:21.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3249ms or 64 ticks behind
+[24Mar2025 21:51:25.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EnyelBlue[/192.168.194.197:44624] logged in with entity id 62534 at (39.437225278339234, 64.0, -24.106367922539352)
+[24Mar2025 21:51:25.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue joined the game
+[24Mar2025 21:51:25.769] [Server thread/INFO] [Jade/]: Syncing config to EnyelBlue (f96bd646-0553-3924-bf94-b67f5883958a)
+[24Mar2025 21:51:26.548] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EnyelBlue (18)
+[24Mar2025 21:51:26.548] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EnyelBlue
+[24Mar2025 21:51:28.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to Pokeiro]
+[24Mar2025 21:51:29.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f96bd646-0553-3924-bf94-b67f5883958a
+[24Mar2025 21:51:30.821] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f96bd646-0553-3924-bf94-b67f5883958a
+[24Mar2025 21:51:30.821] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EnyelBlue (f96bd646-0553-3924-bf94-b67f5883958a) successfully connected to voice chat
+[24Mar2025 21:51:40.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4161ms or 83 ticks behind
+[24Mar2025 21:51:58.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3438ms or 68 ticks behind
+[24Mar2025 21:52:16.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Iron Golem
+[24Mar2025 21:52:16.132] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[24Mar2025 21:52:16.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2925ms or 58 ticks behind
+[24Mar2025 21:52:35.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4146ms or 82 ticks behind
+[24Mar2025 21:52:47.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Not Today, Thank You]
+[24Mar2025 21:52:54.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3542ms or 70 ticks behind
+[24Mar2025 21:53:04.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:enderperl'
+[24Mar2025 21:53:04.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ve midgar enderperl 10<--[HERE]
+[24Mar2025 21:53:12.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3514ms or 70 ticks behind
+[24Mar2025 21:53:15.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> piola la casa
+[24Mar2025 21:53:32.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4139ms or 82 ticks behind
+[24Mar2025 21:53:35.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EnyelBlue has made the advancement [Stone Age]
+[24Mar2025 21:53:43.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Gave 10 [Ender Pearl] to Midgard2552]
+[24Mar2025 21:53:51.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4143ms or 82 ticks behind
+[24Mar2025 21:53:57.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> se puede prender el faro
+[24Mar2025 21:54:06.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> si
+[24Mar2025 21:54:10.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4059ms or 81 ticks behind
+[24Mar2025 21:54:29.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3966ms or 79 ticks behind
+[24Mar2025 21:54:49.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5627ms or 112 ticks behind
+[24Mar2025 21:54:53.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> ya
+[24Mar2025 21:55:10.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5679ms or 113 ticks behind
+[24Mar2025 21:55:31.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5893ms or 117 ticks behind
+[24Mar2025 21:55:51.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5607ms or 112 ticks behind
+[24Mar2025 21:55:58.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has made the advancement [Cover Me with Diamonds]

@@ -28,7 +28,7 @@
 	pvp_stolen_xp = 30
 	#The chance that some items are lost on death [0..100|default:0]
 	#Range: 0 ~ 100
-	chance_loss_on_death = 100
+	chance_loss_on_death = 0
 	#The percentage of items that are lost on death [0..100|default:0]
 	#Range: 0 ~ 100
 	percent_loss_on_death = 0

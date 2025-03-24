@@ -566,3 +566,41 @@
 [24Mar2025 21:24:16.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> xd
 [24Mar2025 21:25:14.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 was slain by Spider
 [24Mar2025 21:25:14.995] [Server thread/INFO] [tombstone/]: The player gabyy7w77 has successfully been saved
+[24Mar2025 21:25:39.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has reached the goal [Here They Come]
+[24Mar2025 21:26:02.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Midgard2552[/192.168.194.29:64332] logged in with entity id 41408 at (-294.4813166304245, 32.0, 92.9423403680445)
+[24Mar2025 21:26:02.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 joined the game
+[24Mar2025 21:26:02.317] [Server thread/INFO] [Jade/]: Syncing config to Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721)
+[24Mar2025 21:26:02.656] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Midgard2552 (18)
+[24Mar2025 21:26:02.656] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Midgard2552
+[24Mar2025 21:26:03.166] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7b2f48e0-3526-383b-968c-7681c44da721
+[24Mar2025 21:26:04.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7b2f48e0-3526-383b-968c-7681c44da721
+[24Mar2025 21:26:04.168] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721) successfully connected to voice chat
+[24Mar2025 21:26:06.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro was slain by Vindicator
+[24Mar2025 21:26:06.157] [Server thread/INFO] [tombstone/]: The player Pokeiro has successfully been saved
+[24Mar2025 21:26:19.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> tengo casa
+[24Mar2025 21:26:24.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> comida
+[24Mar2025 21:26:33.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> apunto de mecharme con ladrones
+[24Mar2025 21:27:52.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Sweet Dreams]
+[24Mar2025 21:28:23.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Sweet Dreams]
+[24Mar2025 21:28:27.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> a asd
+[24Mar2025 21:28:42.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> a que hora se hace de dia
+[24Mar2025 21:29:08.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyy7w77> duerman
+[24Mar2025 21:29:13.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> ya
+[24Mar2025 21:29:15.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> go velada
+[24Mar2025 21:29:22.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> duerme
+[24Mar2025 21:30:45.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 has made the advancement [We do a little trolling...]
+[24Mar2025 21:31:18.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [We do a little trolling...]
+[24Mar2025 21:31:36.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has made the advancement [Knowledge of Death]
+[24Mar2025 21:31:36.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has reached the goal [Strong or Careful]
+[24Mar2025 21:31:36.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot was slain by Skeleton
+[24Mar2025 21:31:36.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has made the advancement [Your First Grave]
+[24Mar2025 21:31:36.219] [Server thread/INFO] [tombstone/]: The player Lancelot has successfully been saved
+[24Mar2025 21:31:36.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro was slain by Vindicator
+[24Mar2025 21:31:36.664] [Server thread/INFO] [tombstone/]: The player Pokeiro has successfully been saved
+[24Mar2025 21:31:49.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro fell from a high place
+[24Mar2025 21:31:49.253] [Server thread/INFO] [tombstone/]: The player Pokeiro has successfully been saved
+[24Mar2025 21:32:06.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has reached the goal [Here They Come]
+[24Mar2025 21:32:44.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> que
+[24Mar2025 21:33:18.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> que estas asiendo
+[24Mar2025 21:34:13.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> turtogas
+[24Mar2025 21:34:44.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> mira

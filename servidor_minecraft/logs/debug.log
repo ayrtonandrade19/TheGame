@@ -6084,3 +6084,60 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Mar2025 21:15:02.006] [Server thread/INFO] [tombstone/]: The player Pokeiro has successfully been saved
 [24Mar2025 21:15:03.664] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
 [24Mar2025 21:15:03.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [A Fast Comeback]
+[24Mar2025 21:15:04.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> XDDD
+[24Mar2025 21:15:12.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Pokeiro to Aleksito27]
+[24Mar2025 21:15:17.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 21:15:17.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 21:15:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lancelot has made the advancement [Mine? Mine? Mine?]
+[24Mar2025 21:15:34.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has made the advancement [Easter Egg Searcher]
+[24Mar2025 21:15:37.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Chain Death]
+[24Mar2025 21:15:37.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Vindicator
+[24Mar2025 21:15:37.424] [Server thread/DEBUG] [tombstone/]: A new grave of the player Aleksito27 was created at position [x:-907, y:101, z:289, dim:minecraft:overworld]
+[24Mar2025 21:15:37.460] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[24Mar2025 21:16:01.736] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_8 is being run through DFU (hash aa2afa2d5de66cead416df85ea4a32fc04854c642105d5d8b3e50e03ba56d1a1), this will cause launch time delays
+[24Mar2025 21:16:05.371] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[24Mar2025 21:16:05.371] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md98de6b$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[24Mar2025 21:16:05.375] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit is being run through DFU (hash f1c61aee919af5b4328b00946297488c1ae6298e8368899493ef1e2f912cd68d), this will cause launch time delays
+[24Mar2025 21:16:05.501] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthi_throne is being run through DFU (hash fe56ff13945da4037a3304881f981a2d446bd3d8011f0673dd029d88bd38d2d7), this will cause launch time delays
+[24Mar2025 21:16:05.606] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_1 is being run through DFU (hash 761c6ed2072fe7e2915febc169f20d4b644f8695f5e9dd9719bcab1cbe1e4127), this will cause launch time delays
+[24Mar2025 21:16:05.624] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_2 is being run through DFU (hash 760dec3596d4f025d1c5cf7f2641193f29d165e4ae8fcc344d06435c6a32ac58), this will cause launch time delays
+[24Mar2025 21:16:05.633] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_extend is being run through DFU (hash 02ee3988b5d2680529a144e8cf8abc69d71a674c8feb16925c671e0fedbca653), this will cause launch time delays
+[24Mar2025 21:16:05.777] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_2 is being run through DFU (hash 1379096a7a49bd6673e2d616c0bdfceedaa1ac4f8e60238437a7fb0d90ea3111), this will cause launch time delays
+[24Mar2025 21:16:05.825] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_3 is being run through DFU (hash dd6e993a8f3fde05c1064302501b0f9ffdeda06349ef4a8f150ff16d4d8bcaf8), this will cause launch time delays
+[24Mar2025 21:16:05.871] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_1 is being run through DFU (hash adaed3887d364fa75eefd197e87cd281605ab4caec4441c9abadf64eb3836771), this will cause launch time delays
+[24Mar2025 21:16:05.895] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit_small_2 is being run through DFU (hash 442197eb9b8936253bfa6786eb8731c4c7825592357132b3ea17461b5971b58c), this will cause launch time delays
+[24Mar2025 21:16:05.905] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit_small_1 is being run through DFU (hash c0a2ab40feea0429b2fdd2197c7dc7726ed142ffae8b437e57614aeb5118cd53), this will cause launch time delays
+[24Mar2025 21:16:05.985] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_4 is being run through DFU (hash 83cbc6cdf72ab1b09f2ca868d918388ed6e0d35f8da2161960420f5d37c03bbd), this will cause launch time delays
+[24Mar2025 21:16:05.994] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_2 is being run through DFU (hash f994a4d00e2db8d208572e9f72e67c3379bbabfd99dbd8865046ffe941573796), this will cause launch time delays
+[24Mar2025 21:16:06.007] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_1 is being run through DFU (hash 592b09a6abd24a3d4c7e68dbe797dff2bf244aff6ec0e07d398fac23d00f5c49), this will cause launch time delays
+[24Mar2025 21:16:06.030] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_3 is being run through DFU (hash 4322167294d5c4acf589da61f48b80c66fc3b43657a11d1f1ca8a1004f7b0a19), this will cause launch time delays
+[24Mar2025 21:16:06.347] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[24Mar2025 21:16:32.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gabyy7w77> lance donde estas?
+[24Mar2025 21:16:40.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lancelot> me percigen
+[24Mar2025 21:16:49.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> tu viejita vio las notas
+[24Mar2025 21:17:26.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito was doomed to fall by Zombie
+[24Mar2025 21:17:26.507] [Server thread/DEBUG] [tombstone/]: A new grave of the player pepito was created at position [x:239, y:61, z:-324, dim:minecraft:overworld]
+[24Mar2025 21:17:26.508] [Server thread/INFO] [tombstone/]: The player pepito has successfully been saved
+[24Mar2025 21:17:29.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> XD
+[24Mar2025 21:17:35.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> tmr
+[24Mar2025 21:17:45.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> xxd
+[24Mar2025 21:17:57.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> me acuerdo que caminaba un culo para ir a mi tumba
+[24Mar2025 21:18:19.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokeiro> pero es que si era diversion asi pes
+[24Mar2025 21:19:28.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> nose cuando es noche y cunado es dia
+[24Mar2025 21:20:17.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 21:20:17.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 21:20:23.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Midgard2552 lost connection: Disconnected
+[24Mar2025 21:20:23.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 left the game
+[24Mar2025 21:20:23.618] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Midgard2552
+[24Mar2025 21:20:23.619] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Midgard2552
+[24Mar2025 21:22:39.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Mine? Mine? Mine?]
+[24Mar2025 21:22:47.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro has reached the goal [Fortuitous Militia]
+[24Mar2025 21:24:12.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokeiro was slain by Vindicator
+[24Mar2025 21:24:12.418] [Server thread/DEBUG] [tombstone/]: A new grave of the player Pokeiro was created at position [x:-918, y:91, z:301, dim:minecraft:overworld]
+[24Mar2025 21:24:12.446] [Server thread/INFO] [tombstone/]: The player Pokeiro has successfully been saved
+[24Mar2025 21:24:16.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> xd
+[24Mar2025 21:25:14.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gabyy7w77 was slain by Spider
+[24Mar2025 21:25:14.984] [Server thread/DEBUG] [tombstone/]: A new grave of the player gabyy7w77 was created at position [x:84, y:63, z:-229, dim:minecraft:overworld]
+[24Mar2025 21:25:14.995] [Server thread/INFO] [tombstone/]: The player gabyy7w77 has successfully been saved
+[24Mar2025 21:25:17.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 21:25:17.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

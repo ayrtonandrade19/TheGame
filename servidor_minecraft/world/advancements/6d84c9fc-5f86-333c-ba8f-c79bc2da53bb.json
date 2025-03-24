@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-24 21:11:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-24 20:47:06 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-03-24 20:56:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-24 21:11:01 +0000"
     },
     "done": true
   },
@@ -242,6 +254,12 @@
   "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
       "kill_pillager": "2025-03-24 21:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-24 21:11:01 +0000"
     },
     "done": true
   },
@@ -428,6 +446,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-24 21:03:47 +0000",
+      "minecraft:skeleton": "2025-03-24 21:16:18 +0000",
       "minecraft:vindicator": "2025-03-24 21:07:10 +0000",
       "minecraft:creeper": "2025-03-24 21:00:16 +0000",
       "minecraft:evoker": "2025-03-24 21:05:00 +0000",
@@ -547,6 +566,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-24 20:46:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-03-24 21:15:37 +0000"
     },
     "done": true
   },
@@ -940,6 +965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-24 21:11:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-03-24 20:47:06 +0000"
@@ -1075,6 +1106,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-03-24 20:56:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-24 21:15:03 +0000"
     },
     "done": true
   },
@@ -1235,6 +1272,12 @@
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-03-24 20:46:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-03-24 21:15:00 +0000"
     },
     "done": true
   },

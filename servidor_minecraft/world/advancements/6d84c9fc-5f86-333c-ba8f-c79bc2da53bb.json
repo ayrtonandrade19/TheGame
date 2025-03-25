@@ -728,6 +728,7 @@
       "minecraft:zombified_piglin": "2025-03-24 22:41:04 +0000",
       "minecraft:witch": "2025-03-24 20:59:03 +0000",
       "minecraft:husk": "2025-03-25 14:41:56 +0000",
+      "minecraft:cave_spider": "2025-03-25 15:33:59 +0000",
       "minecraft:piglin": "2025-03-24 22:28:49 +0000",
       "minecraft:enderman": "2025-03-25 14:39:08 +0000",
       "minecraft:stray": "2025-03-25 14:59:56 +0000",
@@ -2954,6 +2955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-25 15:29:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/stolen_magic": {
     "criteria": {
       "coded_trigger": "2025-03-25 14:41:53 +0000"
@@ -2978,6 +2985,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-25 15:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-25 15:29:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-03-25 14:50:00 +0000"
@@ -2993,6 +3012,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-03-25 14:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-25 15:26:25 +0000"
     },
     "done": true
   },
@@ -3080,6 +3105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-25 15:29:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mutual_aid": {
     "criteria": {
       "coded_trigger": "2025-03-25 14:50:22 +0000"
@@ -3095,6 +3126,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-03-25 14:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-03-25 15:26:25 +0000"
     },
     "done": true
   },
@@ -3134,6 +3171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-03-25 15:30:01 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-25 15:21:13 +0000"
@@ -3158,9 +3201,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2025-03-25 15:33:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-03-25 14:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-25 15:29:35 +0000"
     },
     "done": true
   },
@@ -3191,6 +3246,12 @@
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-03-25 15:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-25 15:29:35 +0000"
     },
     "done": true
   },

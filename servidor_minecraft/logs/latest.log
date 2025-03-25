@@ -145,3 +145,99 @@
 [25Mar2025 14:20:22.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleksito27 lost connection: Disconnected
 [25Mar2025 14:20:22.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 left the game
 [25Mar2025 14:20:22.121] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Aleksito27
+[25Mar2025 14:24:11.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aleksito27[/192.168.194.10:51638] logged in with entity id 1126 at (-1239.6234843155482, 64.0, 736.370671383829)
+[25Mar2025 14:24:11.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 joined the game
+[25Mar2025 14:24:11.362] [Server thread/INFO] [Jade/]: Syncing config to Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb)
+[25Mar2025 14:24:12.612] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Aleksito27 (18)
+[25Mar2025 14:24:12.613] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Aleksito27
+[25Mar2025 14:24:15.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
+[25Mar2025 14:24:16.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
+[25Mar2025 14:24:16.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb) successfully connected to voice chat
+[25Mar2025 14:27:10.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[25Mar2025 14:27:35.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[25Mar2025 14:27:44.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[25Mar2025 14:28:48.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Manuel_Jota_23[/192.168.194.128:51106] logged in with entity id 2303 at (-47.5, 63.0, 82.5)
+[25Mar2025 14:28:48.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 joined the game
+[25Mar2025 14:28:48.393] [Server thread/INFO] [Jade/]: Syncing config to Manuel_Jota_23 (17a14630-7183-39be-ad60-214f2ed89342)
+[25Mar2025 14:28:48.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Easter]
+[25Mar2025 14:28:49.179] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Manuel_Jota_23 (18)
+[25Mar2025 14:28:49.179] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Manuel_Jota_23
+[25Mar2025 14:28:49.999] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17a14630-7183-39be-ad60-214f2ed89342
+[25Mar2025 14:28:51.000] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17a14630-7183-39be-ad60-214f2ed89342
+[25Mar2025 14:28:51.002] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Manuel_Jota_23 (17a14630-7183-39be-ad60-214f2ed89342) successfully connected to voice chat
+[25Mar2025 14:29:15.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]
+[25Mar2025 14:30:07.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Cover Me with Diamonds]
+[25Mar2025 14:30:53.683] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[25Mar2025 14:31:00.827] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[25Mar2025 14:31:05.785] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[25Mar2025 14:31:09.762] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 5 bison_fur because there is no smelting recipe
+[25Mar2025 14:31:25.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Amateur Archaeologist]
+[25Mar2025 14:31:32.783] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[25Mar2025 14:31:40.442] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[25Mar2025 14:31:48.131] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
+[25Mar2025 14:31:51.531] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
+[25Mar2025 14:31:54.683] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 5 bison_fur because there is no smelting recipe
+[25Mar2025 14:33:13.942] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
+[25Mar2025 14:33:18.280] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 4 bison_fur because there is no smelting recipe
+[25Mar2025 14:33:22.292] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[25Mar2025 14:33:26.835] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[25Mar2025 14:33:30.683] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[25Mar2025 14:33:37.330] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[25Mar2025 14:35:19.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Acquire Hardware]
+[25Mar2025 14:35:50.556] [Worker-Main-29/INFO] [ModernFix/]: Instantiating Mojang DFU
+[25Mar2025 14:35:59.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Mine? Mine? Mine?]
+[25Mar2025 14:36:08.785] [Worker-Main-21/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/5636, l='ServerLevel[world]', x=-1459.70, y=21.10, z=1070.95] as it would cause deadlock
+[25Mar2025 14:36:50.866] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[25Mar2025 14:36:50.868] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[25Mar2025 14:36:50.890] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[25Mar2025 14:36:50.893] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[25Mar2025 14:36:50.896] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[25Mar2025 14:36:50.897] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[25Mar2025 14:36:50.898] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[25Mar2025 14:36:54.019] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[25Mar2025 14:36:54.120] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[25Mar2025 14:36:54.121] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[25Mar2025 14:37:35.100] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[25Mar2025 14:37:35.101] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[25Mar2025 14:37:38.002] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[25Mar2025 14:37:38.003] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[25Mar2025 14:37:38.003] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[25Mar2025 14:37:38.018] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[25Mar2025 14:37:38.019] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[25Mar2025 14:37:38.019] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[25Mar2025 14:37:38.020] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[25Mar2025 14:37:38.021] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[25Mar2025 14:38:25.488] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 4 bison_fur because there is no smelting recipe
+[25Mar2025 14:38:35.885] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[25Mar2025 14:39:04.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Not Today, Thank You]
+[25Mar2025 14:39:05.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Monster Hunter]
+[25Mar2025 14:39:59.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [A Strange Grave Dust]
+[25Mar2025 14:41:53.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Stolen Magic]
+[25Mar2025 14:42:09.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepito[/192.168.194.247:57855] logged in with entity id 8874 at (603.22219513293, 68.0, -483.79399218502647)
+[25Mar2025 14:42:09.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito joined the game
+[25Mar2025 14:42:09.148] [Server thread/INFO] [Jade/]: Syncing config to pepito (3b6eece8-baa9-3e51-8999-07090befd51e)
+[25Mar2025 14:42:14.556] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepito (18)
+[25Mar2025 14:42:14.557] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepito
+[25Mar2025 14:42:18.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Ice Bucket Challenge]
+[25Mar2025 14:42:21.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3b6eece8-baa9-3e51-8999-07090befd51e
+[25Mar2025 14:42:22.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3b6eece8-baa9-3e51-8999-07090befd51e
+[25Mar2025 14:42:22.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pepito (3b6eece8-baa9-3e51-8999-07090befd51e) successfully connected to voice chat
+[25Mar2025 14:42:48.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Magic Siphoner]
+[25Mar2025 14:43:21.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Ashes 'n Bones]
+[25Mar2025 14:44:16.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Easter Egg Searcher]
+[25Mar2025 14:50:12.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Magic Writing]
+[25Mar2025 14:50:22.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Mutual Aid]
+[25Mar2025 14:50:22.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [A little cleaning is necessary]
+[25Mar2025 14:54:42.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepito lost connection: Disconnected
+[25Mar2025 14:54:42.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito left the game
+[25Mar2025 14:54:42.830] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pepito
+[25Mar2025 14:55:23.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Suit Up]
+[25Mar2025 14:55:37.214] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[25Mar2025 14:55:37.217] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[25Mar2025 14:55:39.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3015ms or 60 ticks behind
+[25Mar2025 14:59:32.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Knowledge of Death]
+[25Mar2025 14:59:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Ashes 'n Bones]
+[25Mar2025 15:00:01.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Bone Crusher]
+[25Mar2025 15:00:15.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Pic-A-Nic Basket?]
+[25Mar2025 15:00:30.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Pic-A-Nic Basket?]
+[25Mar2025 15:01:19.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Stone Age]

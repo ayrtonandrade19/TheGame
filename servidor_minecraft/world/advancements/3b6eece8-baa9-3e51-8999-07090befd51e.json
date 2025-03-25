@@ -375,6 +375,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-03-24 20:38:27 +0000",
+      "mutton": "2025-03-25 15:42:03 +0000",
       "melon_slice": "2025-03-24 21:32:22 +0000"
     },
     "done": false
@@ -2021,9 +2022,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "tombstone:adventure/ashes_and_bones": {
     "criteria": {
-      "has_wood_slab": "2025-03-25 14:53:49 +0000"
+      "coded_trigger": "2025-03-25 14:43:21 +0000"
     },
     "done": true
   },
@@ -2033,9 +2034,105 @@
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "coded_trigger": "2025-03-25 14:43:21 +0000"
+      "has_wood_slab": "2025-03-25 14:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-03-25 15:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-03-25 15:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-25 15:52:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-03-25 15:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-03-25 15:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-25 15:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-25 15:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-25 15:41:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-25 16:00:59 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-03-25 15:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-25 15:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2025-03-25 15:56:45 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_acacia": "2025-03-25 15:50:59 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-03-25 15:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-25 15:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-25 16:00:59 +0000"
     },
     "done": true
   },

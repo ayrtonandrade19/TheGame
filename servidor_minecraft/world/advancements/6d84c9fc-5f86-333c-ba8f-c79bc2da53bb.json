@@ -45,6 +45,7 @@
       "minecraft:sparse_jungle": "2025-03-24 23:06:16 +0000",
       "minecraft:river": "2025-03-24 20:46:28 +0000",
       "minecraft:stony_shore": "2025-03-25 00:28:24 +0000",
+      "minecraft:snowy_plains": "2025-03-25 15:47:20 +0000",
       "minecraft:dripstone_caves": "2025-03-25 14:52:53 +0000",
       "minecraft:snowy_taiga": "2025-03-25 14:52:52 +0000",
       "minecraft:grove": "2025-03-24 23:13:30 +0000",
@@ -2961,6 +2962,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-25 15:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-25 16:01:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/stolen_magic": {
     "criteria": {
       "coded_trigger": "2025-03-25 14:41:53 +0000"
@@ -2985,6 +2998,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-25 16:01:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-25 15:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-03-25 15:29:35 +0000"
@@ -2994,6 +3019,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-25 15:29:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-25 15:40:28 +0000"
     },
     "done": true
   },
@@ -3069,6 +3100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-25 15:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-25 15:21:13 +0000"
@@ -3123,6 +3160,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-25 15:53:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-03-25 14:29:47 +0000"
@@ -3135,6 +3178,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/master_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-03-25 15:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2025-03-25 15:37:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-03-25 14:41:33 +0000"
@@ -3144,6 +3199,12 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-03-25 15:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-03-25 15:36:06 +0000"
     },
     "done": true
   },
@@ -3210,6 +3271,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-03-25 14:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-25 15:53:32 +0000"
     },
     "done": true
   },
@@ -3291,6 +3358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-25 15:53:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-03-25 14:41:33 +0000"
@@ -3303,9 +3376,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-03-25 16:02:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-03-25 14:33:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-25 15:40:33 +0000"
     },
     "done": true
   },
@@ -3318,6 +3403,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-25 14:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-25 15:53:32 +0000"
     },
     "done": true
   },

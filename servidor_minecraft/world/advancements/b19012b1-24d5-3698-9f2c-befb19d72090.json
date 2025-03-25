@@ -213,7 +213,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-25 01:29:04 +0000",
-      "bread": "2025-03-24 21:44:33 +0000"
+      "cooked_mutton": "2025-03-25 15:41:34 +0000",
+      "bread": "2025-03-24 21:44:33 +0000",
+      "golden_carrot": "2025-03-25 16:04:35 +0000"
     },
     "done": false
   },
@@ -1079,6 +1081,24 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-03-25 15:49:35 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-25 15:59:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-25 15:33:07 +0000"
@@ -1091,15 +1111,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-25 15:29:16 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-25 15:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-03-25 16:00:53 +0000"
     },
     "done": true
   },
@@ -1130,6 +1174,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-03-25 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-25 16:02:47 +0000"
     },
     "done": true
   },
@@ -1169,15 +1219,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-03-25 15:35:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-03-25 15:29:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-03-25 15:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
     },
     "done": true
   },
@@ -1193,9 +1261,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:59:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-03-25 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-03-25 16:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-03-25 16:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-25 15:38:40 +0000"
     },
     "done": true
   },
@@ -1223,15 +1315,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-25 15:35:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-03-25 15:29:19 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-25 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
     },
     "done": true
   },
@@ -1259,6 +1375,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-25 15:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-25 15:38:40 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/filter_item": {
     "criteria": {
       "has_small_backpack": "2025-03-25 15:22:45 +0000"
@@ -1268,6 +1402,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-25 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:50:44 +0000"
     },
     "done": true
   },
@@ -1295,6 +1435,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-03-25 15:29:35 +0000"
@@ -1313,6 +1459,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-25 15:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-03-25 15:29:19 +0000"
@@ -1325,9 +1489,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-25 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-03-25 15:38:40 +0000"
     },
     "done": true
   },
@@ -1349,9 +1525,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-25 15:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-25 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:50:44 +0000"
     },
     "done": true
   },
@@ -1364,6 +1564,12 @@
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-03-25 15:32:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
     },
     "done": true
   },
@@ -1382,6 +1588,24 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-03-25 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-03-25 16:03:25 +0000"
     },
     "done": true
   },
@@ -1406,6 +1630,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-03-25 15:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-25 15:35:11 +0000"
     },
     "done": true
   },
@@ -1442,6 +1672,18 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-25 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-03-25 15:38:40 +0000"
     },
     "done": true
   },
@@ -1505,6 +1747,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-25 15:38:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-03-25 15:32:30 +0000"
@@ -1541,9 +1795,51 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-25 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-03-25 15:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-03-25 16:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-03-25 15:38:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:50:44 +0000"
     },
     "done": true
   },
@@ -1565,6 +1861,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-25 15:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-25 15:35:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-03-25 15:29:19 +0000"
@@ -1583,9 +1891,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-25 16:01:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-03-25 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-03-25 15:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:50:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-03-25 15:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:59:31 +0000"
     },
     "done": true
   },
@@ -1601,9 +1969,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-03-25 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-25 16:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
     },
     "done": true
   },
@@ -1616,6 +2002,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-25 15:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-25 15:50:17 +0000"
     },
     "done": true
   },
@@ -1646,6 +2038,30 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-25 15:29:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-03-25 15:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-03-25 15:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-25 15:35:11 +0000"
     },
     "done": true
   },
@@ -1703,6 +2119,30 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-25 16:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-25 16:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-25 15:59:31 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]": "2025-03-25 15:29:19 +0000"
@@ -1715,15 +2155,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-25 15:38:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-03-25 15:59:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-25 16:02:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-03-25 15:29:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-25 15:50:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-03-25 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
     },
     "done": true
   },
@@ -1742,6 +2212,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-03-25 15:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-03-25 15:35:18 +0000"
     },
     "done": true
   },

@@ -310,3 +310,74 @@
 [25Mar2025 15:33:07.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva has made the advancement [Isn't It Iron Pick]
 [25Mar2025 15:33:49.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva has made the advancement [Knowledge of Death]
 [25Mar2025 15:33:49.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva has made the advancement [A Strange Grave Dust]
+[25Mar2025 15:35:51.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to Manuel_Jota_23]
+[25Mar2025 15:37:09.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Vindicator
+[25Mar2025 15:37:09.732] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[25Mar2025 15:37:36.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has completed the challenge [Master Siphoner]
+[25Mar2025 15:38:26.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepito[/192.168.194.247:61482] logged in with entity id 46183 at (635.6999999880791, 73.0, -482.30000001192093)
+[25Mar2025 15:38:26.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito joined the game
+[25Mar2025 15:38:26.147] [Server thread/INFO] [Jade/]: Syncing config to pepito (3b6eece8-baa9-3e51-8999-07090befd51e)
+[25Mar2025 15:38:30.834] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepito (18)
+[25Mar2025 15:38:30.835] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepito
+[25Mar2025 15:38:38.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3b6eece8-baa9-3e51-8999-07090befd51e
+[25Mar2025 15:38:39.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3b6eece8-baa9-3e51-8999-07090befd51e
+[25Mar2025 15:38:39.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pepito (3b6eece8-baa9-3e51-8999-07090befd51e) successfully connected to voice chat
+[25Mar2025 15:38:56.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Vindicator
+[25Mar2025 15:38:56.895] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[25Mar2025 15:39:36.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Vindicator
+[25Mar2025 15:39:36.140] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[25Mar2025 15:39:47.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> y
+[25Mar2025 15:40:07.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> pepito quieres venir?
+[25Mar2025 15:40:28.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Traveling lightning rod]
+[25Mar2025 15:40:33.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Waterworld]
+[25Mar2025 15:40:48.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [To be or not to be]
+[25Mar2025 15:41:26.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Not even afraid of death]
+[25Mar2025 15:41:26.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Back to childhood]
+[25Mar2025 15:49:08.003] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[25Mar2025 15:49:39.164] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[25Mar2025 15:49:52.263] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[25Mar2025 15:50:59.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Safe Haven]
+[25Mar2025 15:51:47.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito was slain by Zombie
+[25Mar2025 15:51:47.057] [Server thread/INFO] [tombstone/]: The player pepito has successfully been saved
+[25Mar2025 15:51:57.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Manuel_Jota_23> xD
+[25Mar2025 15:52:54.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> me estoy mudando de casa
+[25Mar2025 15:52:56.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to Manuel_Jota_23]
+[25Mar2025 15:52:58.207] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[25Mar2025 15:52:58.208] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[25Mar2025 15:52:58.208] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[25Mar2025 15:54:06.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Great minds think alike]
+[25Mar2025 15:54:12.545] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/60727, l='ServerLevel[world]', x=379.93, y=66.00, z=-659.70] died, message: 'Butcher was slain by pepito'
+[25Mar2025 15:54:12.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Neighborhood Brawl]
+[25Mar2025 15:54:14.610] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[25Mar2025 15:54:23.582] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[25Mar2025 15:54:23.582] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[25Mar2025 15:54:23.644] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[25Mar2025 15:54:23.644] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[25Mar2025 15:54:23.645] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[25Mar2025 15:54:23.645] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[25Mar2025 15:54:23.645] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[25Mar2025 15:54:23.651] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[25Mar2025 15:54:23.652] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[25Mar2025 15:54:23.652] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[25Mar2025 15:54:26.158] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[25Mar2025 15:54:26.347] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[25Mar2025 15:54:26.348] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[25Mar2025 15:55:36.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Call For Adventure]
+[25Mar2025 15:56:04.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to -1257.500000, 63.500000, 728.500000]
+[25Mar2025 15:57:51.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[25Mar2025 15:58:09.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[25Mar2025 15:59:26.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva has made the advancement [Ghost Riders In The Sky]
+[25Mar2025 15:59:36.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva has made the advancement [Not Today, Thank You]
+[25Mar2025 15:59:51.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva has made the advancement [Ashes 'n Bones]
+[25Mar2025 16:00:22.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to Manuel_Jota_23]
+[25Mar2025 16:01:10.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[25Mar2025 16:01:23.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva has made the advancement [Ice Bucket Challenge]
+[25Mar2025 16:01:25.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[25Mar2025 16:01:26.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva has made the advancement [Magic Writing]
+[25Mar2025 16:01:35.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva has reached the goal [Waterworld]
+[25Mar2025 16:01:41.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Enchanter]
+[25Mar2025 16:02:08.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva has reached the goal [Death Will Not Be Enough]
+[25Mar2025 16:02:47.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva has reached the goal [I see clearly now]
+[25Mar2025 16:02:57.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Great minds think alike]
+[25Mar2025 16:04:00.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva has completed the challenge [The Power of the Sun]
+[25Mar2025 16:04:07.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> tanto

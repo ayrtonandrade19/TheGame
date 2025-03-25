@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-25 16:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-03-25 15:28:04 +0000"
@@ -201,6 +207,18 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-03-25 15:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-25 16:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-03-25 15:58:15 +0000"
     },
     "done": true
   },
@@ -444,6 +462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-03-25 15:58:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-03-25 15:28:03 +0000"
@@ -465,6 +489,12 @@
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-03-25 14:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-25 15:40:58 +0000"
     },
     "done": true
   },
@@ -495,6 +525,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-03-25 14:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-03-25 15:40:06 +0000"
     },
     "done": true
   },
@@ -635,6 +671,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-03-25 14:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-25 16:01:41 +0000"
     },
     "done": true
   },
@@ -860,6 +902,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-03-25 15:41:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-03-25 15:25:41 +0000"
@@ -1058,6 +1106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-03-25 15:38:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-03-25 14:35:19 +0000"
@@ -1163,6 +1217,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-25 15:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-03-25 15:41:08 +0000"
     },
     "done": true
   },
@@ -1289,6 +1349,12 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-03-25 14:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-03-25 15:58:56 +0000"
     },
     "done": true
   },
@@ -1562,9 +1628,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-03-25 15:54:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-03-25 14:43:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-03-25 16:00:01 +0000"
     },
     "done": true
   },
@@ -1577,6 +1655,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-03-25 14:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-25 16:02:23 +0000"
     },
     "done": true
   },
@@ -1613,6 +1697,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-03-25 14:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-03-25 15:41:49 +0000"
     },
     "done": true
   },
@@ -1692,8 +1782,11 @@
       "minecraft:birch_forest": "2025-03-25 14:46:45 +0000",
       "minecraft:beach": "2025-03-25 14:29:04 +0000",
       "minecraft:river": "2025-03-25 14:32:33 +0000",
+      "minecraft:snowy_plains": "2025-03-25 15:47:21 +0000",
+      "minecraft:stony_shore": "2025-03-25 15:51:24 +0000",
       "minecraft:dripstone_caves": "2025-03-25 14:52:53 +0000",
       "minecraft:snowy_taiga": "2025-03-25 14:52:52 +0000",
+      "minecraft:grove": "2025-03-25 15:51:13 +0000",
       "minecraft:cold_ocean": "2025-03-25 15:09:04 +0000",
       "minecraft:forest": "2025-03-25 14:41:06 +0000",
       "minecraft:deep_cold_ocean": "2025-03-25 15:22:10 +0000",
@@ -1952,6 +2045,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-03-25 15:41:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-03-25 14:35:19 +0000"
@@ -1961,6 +2060,12 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-03-25 14:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-03-25 15:41:49 +0000"
     },
     "done": true
   },

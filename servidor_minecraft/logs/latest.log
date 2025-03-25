@@ -241,3 +241,36 @@
 [25Mar2025 15:00:15.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Pic-A-Nic Basket?]
 [25Mar2025 15:00:30.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Pic-A-Nic Basket?]
 [25Mar2025 15:01:19.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Stone Age]
+[25Mar2025 15:04:43.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Easter Egg Searcher]
+[25Mar2025 15:05:55.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Intruder Alert]
+[25Mar2025 15:05:55.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Intruder Alert]
+[25Mar2025 15:06:28.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Voluntary Exile]
+[25Mar2025 15:07:18.495] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[25Mar2025 15:07:18.495] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[25Mar2025 15:07:18.495] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[25Mar2025 15:07:18.496] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[25Mar2025 15:07:18.518] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[25Mar2025 15:07:18.518] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[25Mar2025 15:07:18.518] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[25Mar2025 15:07:18.519] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[25Mar2025 15:07:22.333] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[25Mar2025 15:07:22.333] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[25Mar2025 15:07:22.333] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[25Mar2025 15:07:22.334] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[25Mar2025 15:07:22.334] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[25Mar2025 15:07:22.335] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[25Mar2025 15:07:22.335] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[25Mar2025 15:07:22.356] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[25Mar2025 15:07:22.356] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[25Mar2025 15:07:22.356] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[25Mar2025 15:07:22.357] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[25Mar2025 15:07:22.357] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[25Mar2025 15:09:27.148] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[25Mar2025 15:14:09.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseSilva[/192.168.194.43:53338] logged in with entity id 27077 at (-565.6355342096965, 98.0, 134.8458407169727)
+[25Mar2025 15:14:09.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseSilva joined the game
+[25Mar2025 15:14:09.864] [Server thread/INFO] [Jade/]: Syncing config to JoseSilva (b19012b1-24d5-3698-9f2c-befb19d72090)
+[25Mar2025 15:14:11.340] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JoseSilva (18)
+[25Mar2025 15:14:11.341] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JoseSilva
+[25Mar2025 15:14:14.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b19012b1-24d5-3698-9f2c-befb19d72090
+[25Mar2025 15:14:15.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b19012b1-24d5-3698-9f2c-befb19d72090
+[25Mar2025 15:14:15.023] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JoseSilva (b19012b1-24d5-3698-9f2c-befb19d72090) successfully connected to voice chat

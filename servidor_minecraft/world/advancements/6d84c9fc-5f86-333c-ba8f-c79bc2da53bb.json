@@ -2877,9 +2877,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
+  "securitycraft:recipes/redstone/keypad_door_item": {
     "criteria": {
-      "from_undead": "2025-03-25 00:45:35 +0000"
+      "has_reinforced_door": "2025-03-25 00:40:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-03-25 00:40:29 +0000"
     },
     "done": true
   },
@@ -2889,15 +2895,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_voodoo_poppet": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "has_voodoo_poppet": "2025-03-25 00:56:41 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2025-03-25 00:50:52 +0000"
+      "from_undead": "2025-03-25 00:45:35 +0000"
     },
     "done": true
   },
@@ -2907,9 +2907,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/keypad_door_item": {
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
-      "has_reinforced_door": "2025-03-25 00:40:29 +0000"
+      "has_bow": "2025-03-25 00:50:52 +0000"
     },
     "done": true
   },
@@ -2919,9 +2919,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/scanner_door_item": {
+  "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
-      "has_reinforced_door": "2025-03-25 00:40:29 +0000"
+      "has_voodoo_poppet": "2025-03-25 00:56:41 +0000"
     },
     "done": true
   },

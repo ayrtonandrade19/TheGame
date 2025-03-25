@@ -33,6 +33,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-03-25 14:51:22 +0000",
       "minecraft:taiga": "2025-03-25 00:49:45 +0000",
+      "minecraft:deep_ocean": "2025-03-25 15:21:21 +0000",
       "minecraft:frozen_river": "2025-03-25 14:57:38 +0000",
       "minecraft:cherry_grove": "2025-03-24 20:52:46 +0000",
       "minecraft:sunflower_plains": "2025-03-24 20:28:40 +0000",
@@ -49,6 +50,7 @@
       "minecraft:grove": "2025-03-24 23:13:30 +0000",
       "minecraft:cold_ocean": "2025-03-25 15:09:03 +0000",
       "minecraft:forest": "2025-03-24 20:57:35 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-25 15:22:10 +0000",
       "minecraft:frozen_ocean": "2025-03-25 15:08:48 +0000",
       "minecraft:desert": "2025-03-24 23:00:55 +0000",
       "minecraft:windswept_forest": "2025-03-25 00:50:17 +0000",
@@ -88,6 +90,7 @@
       "cooked_porkchop": "2025-03-24 22:07:52 +0000",
       "cooked_mutton": "2025-03-24 23:31:59 +0000",
       "cooked_beef": "2025-03-24 20:38:33 +0000",
+      "golden_apple": "2025-03-25 15:23:42 +0000",
       "golden_carrot": "2025-03-24 23:06:03 +0000"
     },
     "done": false
@@ -714,6 +717,7 @@
     "criteria": {
       "minecraft:pillager": "2025-03-24 21:03:47 +0000",
       "minecraft:skeleton": "2025-03-24 21:16:18 +0000",
+      "minecraft:ravager": "2025-03-25 15:16:10 +0000",
       "minecraft:hoglin": "2025-03-24 22:27:23 +0000",
       "minecraft:vindicator": "2025-03-24 21:07:10 +0000",
       "minecraft:magma_cube": "2025-03-24 22:22:25 +0000",
@@ -727,6 +731,7 @@
       "minecraft:piglin": "2025-03-24 22:28:49 +0000",
       "minecraft:enderman": "2025-03-25 14:39:08 +0000",
       "minecraft:stray": "2025-03-25 14:59:56 +0000",
+      "minecraft:vex": "2025-03-25 15:17:22 +0000",
       "minecraft:zombie": "2025-03-24 20:56:08 +0000"
     },
     "done": false
@@ -2943,6 +2948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-03-25 15:22:45 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/stolen_magic": {
     "criteria": {
       "coded_trigger": "2025-03-25 14:41:53 +0000"
@@ -2958,6 +2969,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-25 14:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-25 15:22:45 +0000"
     },
     "done": true
   },
@@ -2979,9 +2996,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-25 15:21:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-03-25 14:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-25 15:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-25 15:21:13 +0000"
     },
     "done": true
   },
@@ -3009,9 +3044,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-25 15:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-03-25 15:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-25 15:21:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-03-25 14:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-25 15:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-25 15:21:13 +0000"
     },
     "done": true
   },
@@ -3039,6 +3104,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-25 15:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-25 15:21:13 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-25 15:21:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-03-25 14:32:22 +0000"
@@ -3051,9 +3134,21 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-25 15:21:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2025-03-25 14:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-03-25 15:21:13 +0000"
     },
     "done": true
   },
@@ -3093,6 +3188,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-03-25 15:23:58 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/magic_siphoner": {
     "criteria": {
       "coded_trigger": "2025-03-25 14:42:48 +0000"
@@ -3102,6 +3203,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-25 14:29:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-03-25 15:23:26 +0000"
     },
     "done": true
   },
@@ -3141,6 +3248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-25 15:16:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-25 14:32:22 +0000"
@@ -3156,6 +3269,12 @@
   "nova_structures:adventure/find_pillager_outpost": {
     "criteria": {
       "minecraft:pillager_outpost": "2025-03-25 15:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-25 15:16:45 +0000"
     },
     "done": true
   },

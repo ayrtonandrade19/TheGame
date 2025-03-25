@@ -274,3 +274,23 @@
 [25Mar2025 15:14:14.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b19012b1-24d5-3698-9f2c-befb19d72090
 [25Mar2025 15:14:15.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b19012b1-24d5-3698-9f2c-befb19d72090
 [25Mar2025 15:14:15.023] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JoseSilva (b19012b1-24d5-3698-9f2c-befb19d72090) successfully connected to voice chat
+[25Mar2025 15:15:28.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Ambush]
+[25Mar2025 15:15:33.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Voluntary Exile]
+[25Mar2025 15:17:28.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Vindicator
+[25Mar2025 15:17:28.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Your First Grave]
+[25Mar2025 15:17:28.545] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[25Mar2025 15:17:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [The Most Useful Key]
+[25Mar2025 15:17:43.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [A Fast Comeback]
+[25Mar2025 15:17:57.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has completed the challenge [Hero of the Village]
+[25Mar2025 15:17:57.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has completed the challenge [Hero of the Village]
+[25Mar2025 15:18:44.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Sweet Dreams]
+[25Mar2025 15:23:11.017] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26604, l='ServerLevel[world]', x=-470.37, y=64.00, z=90.50] died, message: 'Unemployed hit the ground too hard'
+[25Mar2025 15:23:48.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Vindicator
+[25Mar2025 15:23:48.149] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[25Mar2025 15:23:57.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Here They Come]
+[25Mar2025 15:23:58.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has completed the challenge [Village Defender]
+[25Mar2025 15:24:25.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Chain Death]
+[25Mar2025 15:24:25.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Vex
+[25Mar2025 15:24:25.989] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[25Mar2025 15:24:45.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Vindicator
+[25Mar2025 15:24:45.036] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
